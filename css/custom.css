@@ -3,6 +3,16 @@
   --ketchup: #b20000;
 }
 
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(calc(-250px * 5))
+  }
+}
+
 .bg-ketchup {
   background-color: var(--ketchup) !important;
 }
@@ -64,6 +74,7 @@
   position: absolute;
   bottom: 0;
   padding: 1em;
+  transform-origin: top;
   transform: translateY(70%);
   background: linear-gradient(hsl(0 0% 0% / 0),
       hsl(0 0% 0% / 0.3) 10%,
@@ -105,16 +116,6 @@
 #about.scroll-card {
   background-image: url(/assets/flag.png);
   background-position: 50% -20px;
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
-  }
-
-  100% {
-    transform: translateX(calc(-250px * 5))
-  }
 }
 
 .slider {
