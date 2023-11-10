@@ -18,15 +18,6 @@
 }
 
 .nav-link::after {
-  transform: scale(0, 0);
-  transition: transform 400ms linear 250ms;
-}
-
-.nav-link:hover {
-  color: white !important;
-}
-
-.nav-link:hover::after {
   content: '';
   position: absolute;
   top: 0;
@@ -34,12 +25,115 @@
   left: 0;
   right: 0;
   background: var(--red);
-
-  transform: scale(1, 1);
-
   z-index: -1;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 150ms ease;
+}
+
+.nav-link:hover {
+  color: white !important;
+}
+
+.nav-link:hover::after {
+  transform: scaleX(1);
+  transform-origin: center;
 }
 
 .topnav {
   z-index: -100;
+}
+
+.scroll-card {
+  background-size: cover;
+  background-position-x: 50%;
+  padding: 0 !important;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  cursor: default;
+  margin: 5px;
+}
+
+.scroll-card:hover .card-content {
+  transform: translateY(0%);
+}
+
+.card-content {
+  color: white;
+  position: absolute;
+  bottom: 0;
+  padding: 1em;
+  transform: translateY(70%);
+  background: linear-gradient(hsl(0 0% 0% / 0),
+      hsl(0 0% 0% / 0.3) 10%,
+      hsl(0 0% 0% / 1));
+  transition: transform 800ms ease-in-out;
+  will-change: transform;
+}
+
+.card-title {
+  position: relative;
+}
+
+.card-title::after {
+  content: '';
+  left: 0;
+  bottom: -0.3em;
+  height: 4px;
+  width: 100%;
+  position: absolute;
+  background-color: red;
+}
+
+.card-text {
+  margin-top: 1em;
+}
+
+#laws.scroll-card {
+  background-image: url(/assets/gavel.jpg);
+}
+
+#government.scroll-card {
+  background-image: url(/assets/government.jpg);
+}
+
+#news.scroll-card {
+  background-image: url(/assets/news.jpg);
+}
+
+#about.scroll-card {
+  background-image: url(/assets/flag.png);
+  background-position: 50% -20px;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(calc(-250px * 5))
+  }
+}
+
+.slider {
+  box-shadow: 0 10px 20px -5px rgba(0, 0, 0, .125);
+  height: 300px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+  width: 960px;
+}
+
+.slide-track {
+  display: flex;
+  width: 2500px;
+  animation: scroll 20s linear infinite;
+  animation-play-state: running;
+  transition: animation-play-state 1s ease;
+}
+
+.slide-track:hover {
+  animation-play-state: paused;
 }
