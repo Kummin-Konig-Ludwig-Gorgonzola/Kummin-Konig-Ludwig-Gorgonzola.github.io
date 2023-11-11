@@ -13,7 +13,7 @@
 </head>
 
 <body>
-  <header class="py-3 bg-dark">
+  <header class="py-3 bg-black">
     <div class="container d-flex flex-wrap justify-content-center">
       <a href="/" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto link-body-emphasis text-decoration-none">
         <img src="assets/flag.png" height="35px" class="pe-3">
@@ -27,8 +27,25 @@
   <nav class="py-2 border-bottom bg-ketchup topnav">
     <div class="container d-flex flex-wrap">
       <ul class="nav me-auto">
-        <li class="nav-item">
-          <a href="#" class="nav-link link-body-emphasis px-2 text-white">Government</a>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link link-body-emphasis px-2 text-white dropdown-toggle-split"
+            data-bs-toggle="dropdown" aria-expanded="false">Deparments</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Cabinet</a></li>
+            <li><a class="dropdown-item" href="#">Business and Economics</a></li>
+            <li><a class="dropdown-item" href="#">Culture and Media</a></li>
+            <li><a class="dropdown-item" href="#">Education</a></li>
+            <li><a class="dropdown-item" href="#">Environment, Food and Rural affairs</a></li>
+            <li><a class="dropdown-item" href="#">Health and Social Care</a></li>
+            <li><a class="dropdown-item" href="#">History</a></li>
+            <li><a class="dropdown-item" href="#">International Trade</a></li>
+            <li><a class="dropdown-item" href="#">Justice</a></li>
+            <li><a class="dropdown-item" href="#">Language and Nationalism</a></li>
+            <li><a class="dropdown-item" href="#">National Defence and Military</a></li>
+            <li><a class="dropdown-item" href="#">Technological Innovation and Digital Culture</a></li>
+            <li><a class="dropdown-item" href="#">Transport</a></li>
+            <li><a class="dropdown-item" href="#">Work</a></li>
+          </ul>
         </li>
         <li class="nav-item">
           <a href="#" class="nav-link link-body-emphasis px-2 text-white">Laws</a>
@@ -65,7 +82,7 @@
           </div>
           <div class="scroll-card col" id="government">
             <div class="card-content">
-              <h2 class="card-title">Government</h2>
+              <h2 class="card-title">Deparments</h2>
               <p class="card-text">
                 The government in the Republic of Goddard is made up of several departments, each with their own role in
                 running the country. Each is led by a Secretary of State.
@@ -108,7 +125,7 @@
           </div>
           <div class="scroll-card col" id="government">
             <div class="card-content">
-              <h2 class="card-title">Government</h2>
+              <h2 class="card-title">Deparments</h2>
               <p class="card-text">
                 The government in the Republic of Goddard is made up of several departments, each with their own role in
                 running the country. Each is led by a Secretary of State.
@@ -138,9 +155,15 @@
         </div>
       </div>
     </div>
-    <h1>
-      The Republic of Goddard
-    </h1>
+    <form>
+      <input class="input-group form-control" style="">
+    </form>
+    <h1>The Republic of Goddard</h1>
+    <span>Welcome to the official website of the Republic of Goddard, a European micronation surrounded entirely by
+      the
+      United Kingdom of Great Britain of Ireland.</span>
+    <button class="btn btn-warning">Learn more <img
+        src="bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></button>
   </main>
 
 </body>
