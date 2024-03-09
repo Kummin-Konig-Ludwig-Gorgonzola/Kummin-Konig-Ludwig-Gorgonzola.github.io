@@ -1736,7 +1736,7 @@
   },
   {
     "cheese": "Danish",
-    "english": "Day",
+    "english": "Day, Light",
     "wordclass": "n"
   },
   {
@@ -2356,8 +2356,8 @@
   },
   {
     "cheese": "Greve",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Green",
+    "wordclass": "n/adj"
   },
   {
     "cheese": "Grey Owl",
@@ -3356,8 +3356,8 @@
   },
   {
     "cheese": "Nicasio",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Night, Dark",
+    "wordclass": "n/adj"
   },
   {
     "cheese": "Nocciolino",
@@ -3967,6 +3967,11 @@
   {
     "cheese": "Rosso",
     "english": "Red",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Rossogreve",
+    "english": "Yellow",
     "wordclass": "n/adj"
   },
   {
