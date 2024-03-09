@@ -311,8 +311,8 @@
   },
   {
     "cheese": "Asiago",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Soft, Quiet",
+    "wordclass": "adj"
   },
   {
     "cheese": "Aspen Ash",
@@ -4440,7 +4440,7 @@
     "wordclass": "n"
   },
   {
-    "cheese": "TIbetan",
+    "cheese": "Tibetan",
     "english": "-",
     "wordclass": "-"
   },
