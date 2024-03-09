@@ -1,0 +1,4902 @@
+[
+  {
+    "cheese": "Abbot's Gold",
+    "english": "Precious, Valuable",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Abertam",
+    "english": "Mean, Offensive",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Abondance",
+    "english": "Almost, Nearly",
+    "wordclass": "adv"
+  },
+  {
+    "cheese": "Acapella",
+    "english": "Music, Sound",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Acapelladam",
+    "english": "Instrument",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Acapellaggiano",
+    "english": "Digital Instrument, Speaker",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Accasciato",
+    "english": "Bug, Insect",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Ackawi",
+    "english": "Knowledge",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Acorn",
+    "english": "Nut, Legume",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Adelost",
+    "english": "New, Newly",
+    "wordclass": "adj/adv"
+  },
+  {
+    "cheese": "ADL",
+    "english": "Forever, Infinite, Always",
+    "wordclass": "adj/adv"
+  },
+  {
+    "cheese": "ADL Brick",
+    "english": "Immortal",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "ADL Mild Cheddar",
+    "english": "Infinite Luck",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Affidelice",
+    "english": "Disease",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Affineur",
+    "english": "Trouble, Troublesome, Troubling",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Afuega",
+    "english": "Rich",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Aged",
+    "english": "Not, No",
+    "wordclass": "adj/adv"
+  },
+  {
+    "cheese": "Aged Camembert",
+    "english": "No!",
+    "wordclass": "int"
+  },
+  {
+    "cheese": "Aggiano",
+    "english": "Machine",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Ailsa",
+    "english": "Flat, Plane",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Airag",
+    "english": "Poison, to Poison, Poisonous",
+    "wordclass": "n/vb/adj"
+  },
+  {
+    "cheese": "Airedale",
+    "english": "Air, Wind, to Blow",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Aisy",
+    "english": "8, eight, eighth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Allgauer",
+    "english": "Respect",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Allium",
+    "english": "All",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Almnas",
+    "english": "Dangerous, Danger, Risk",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Alpe",
+    "english": "Fat",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Alpha",
+    "english": "1, One, First, Leader",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Alpha Breakfast",
+    "english": "Breakfast",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Alpicrème",
+    "english": "Sweet",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Alpine",
+    "english": "Cone, Cone-shaped",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Alpkäse",
+    "english": "Solid",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Alps Rebel",
+    "english": "Savoury, Umami",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Alta",
+    "english": "Tower",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Alverca",
+    "english": "Mammal",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Amalthée",
+    "english": "Reptile",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Amarelo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ambert",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ameribella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "American",
+    "english": "Stupid, Stupidly, Stupidity, Idiot, Moron",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Ami",
+    "english": "Comrade, Friend, Friendly",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Amish Frolic",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Amou",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Amsterdammer",
+    "english": "Animal",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Amul",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Anejo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Anneau",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Anster",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Anthotyro",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Aphrodite",
+    "english": "Love, to Love",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Appalachian",
+    "english": "Rock, Stone, Pebble, Boulder",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Appenzeller",
+    "english": "Whatever",
+    "wordclass": "p/n/int"
+  },
+  {
+    "cheese": "Applewood",
+    "english": "Message, to Message",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Arådalen",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Aragon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ardi Gasna",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ardrahan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ardsallagh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Armenia",
+    "english": "To forget, Forgetful",
+    "wordclass": "vb/adj"
+  },
+  {
+    "cheese": "Ascutrey",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Asher",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ashley",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Asiago",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Aspen Ash",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Assa",
+    "english": "And",
+    "wordclass": "conj"
+  },
+  {
+    "cheese": "Aubisque",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Aura",
+    "english": "To hear",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Austria",
+    "english": "To fly, flight",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Austriamsterdammer",
+    "english": "Bird",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Autun",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Avaxtskyr",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Babybel",
+    "english": "Bye",
+    "wordclass": "int"
+  },
+  {
+    "cheese": "Bad Axe",
+    "english": "Failure, to fail",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Baita",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baladi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Balaton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Balfour",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baluchon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bandal",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Banon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barambah",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barberey",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barber",
+    "english": "Hair",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Barden",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bavely",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barilotto",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baron Bigod",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baronerosso",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Barricato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bartlett",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baserri",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Basil",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Basing",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baskeriu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Basket",
+    "english": "Bag, Basket",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Bassingly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bath",
+    "english": "Dirty, Dirt",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Batzos",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bayley",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Baylough",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Beach Box",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bear Hill",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Beaufort",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Beaumont",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Beacher",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Beehive",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Belloc",
+    "english": "Blue",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Bellogreve",
+    "english": "Teal",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Bellorosso",
+    "english": "Purple",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Belval",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Beemster",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Beenleigh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Begu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bel ceillo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bella codi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Belle creme",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Belletoile",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bellwether",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bel Paese",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Benedictive",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bent",
+    "english": "Because",
+    "wordclass": "conj"
+  },
+  {
+    "cheese": "Bergere",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bergkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bergues",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Berkswell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bermondsey",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bermuda",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bethmale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bettine",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Beyaz",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bianea",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bianco",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bica",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bierkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Big John",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Big Rock",
+    "english": "Brick",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Big Woods",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Binnoine",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bishop Kennedy",
+    "english": "To kill",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Bisnark",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Black Betty",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Black Pearl",
+    "english": "Beverage, Drink, to drink",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Blackstick",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Blarney",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Blenda",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Blissful Blocks",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bloomsdale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Blue",
+    "english": "You",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Blythedale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bocconcini",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bohemia",
+    "english": "Ugly",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Bavin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bonchester",
+    "english": "0, Zero, Nothing, Off",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Bonifaz",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Boo Boo",
+    "english": "Sad",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Bootleg",
+    "english": "Illegal",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Bossa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bosworth",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bothwell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bougon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Boule du Roves",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Boulette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bourdin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Boursault",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Boursin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brânză",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brandostur",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Breakfast",
+    "english": "Meal",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Brebirousse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brebis",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bresse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brewer's Gold",
+    "english": "Vodka",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Brick",
+    "english": "He, She",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Brick Devil's Gulch",
+    "english": "His, Her, Hers",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bricks",
+    "english": "They, Them",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bricks Devil's Gulch",
+    "english": "Their, Theirs",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bridgewater",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brie",
+    "english": "I, Me",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Brie Devil's Gulch",
+    "english": "My, Mine",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bries",
+    "english": "We, Us",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Bries Devil's Gulch",
+    "english": "Our, Ours",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Brillo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brinzu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Briquette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Briscola",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brocciu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brousse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bruder",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brunost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brussels Pacific",
+    "english": "Sea, Ocean, Lake, Pond",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Brutal",
+    "english": "Angry",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Brindza",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Buche",
+    "english": "Bush",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Bucheret",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bûchette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bufala",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bufalino",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bufarolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Buffalo",
+    "english": "Bad",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Buff",
+    "english": "Hard, Strong",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Burgos",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Burrata",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Burwash",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Burwood",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Butte",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Buttercup",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Buttermilk",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Butternut",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Buxton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Bysaslag",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cabecou",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caboc",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cabot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cabrales",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cachaille",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciobarricato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciobirraio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciobufala",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciocavallo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caciotta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cacow",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caerphilly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cahill",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caleagno",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Calenzana",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cambozola",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cambus",
+    "english": "Creative",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Camembert",
+    "english": "Yes",
+    "wordclass": "adv/int"
+  },
+  {
+    "cheese": "Cameo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Campfire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Campi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cana",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Canadian",
+    "english": "Capitalist, Capitalism",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Canastra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cancoillote",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Canestrato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cantal",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cap Cressy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Capra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caprese",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Capriago",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Capricious",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Capriny",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Capriole",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caprotto",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carabiner",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caravane",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cardo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carlina",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carlow",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carmody",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carnia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caronzola",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carre",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carrot Rebel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carrowholly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Carr",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Casatica",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Casciotta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cashel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Costelmagno",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Castelo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Castigliano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Castle",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Casu marzu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cathelain",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Catupiry",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Caveman",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cave Rebel",
+    "english": "Cave",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Cayuga",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cello",
+    "english": "Dead, extinct",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Cettie",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cendré",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chabis",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Challerhocker",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Champignon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chaource",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chapman",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Charolais",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Château",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chaumes",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chavroux",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Checkerboard",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cheddar",
+    "english": "Happy",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Chelsea",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cherru",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cheshire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chèvre",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chevrotin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chhurpi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Childwickbury",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chile",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chiriboga",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chontanelo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Brindza",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chorlton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Chuva",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cilentano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cinevino",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cirvus",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Civray",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Citeaux",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Clonmore",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Coalho",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Coeur",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Colby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Colony",
+    "english": "Country, Nation",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Colston",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Comox",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Comte",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Comtomme",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Coricato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Condio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Connemara",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Coolatlin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Coolea",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cooleney",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Coquetdale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Corleggy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cote Hill",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cotherstone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cotija",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cotswold",
+    "english": "Hill",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Cottage",
+    "english": "Cute",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Cougar",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Coulommiers",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cranborre",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cratloe",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cravero",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Crayeux",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Crescenza",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cressy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Criffel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Crogban",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cropwell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Crotonese",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Crottin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Crowide",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Crowley",
+    "english": "Creepy, Disgusting, Scary",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Crozier",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Crumbly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cuajado",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cubetto",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cup",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cune",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Cypress",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Danish",
+    "english": "Day",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Danbo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Danby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dante",
+    "english": "South, Down",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Daphne",
+    "english": "Joint, Elbow, Knee, Shoulder",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Davalgjasby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dauphin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Davidstow",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dehesa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Delaware",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Delice",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Derhany",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Derby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Desert",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Devil's Gulch",
+    "english": "To possess",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Devon",
+    "english": "To irritate, irritating",
+    "wordclass": "vb/adj"
+  },
+  {
+    "cheese": "Dinarski",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Di vino",
+    "english": "Alcohol, Alcoholic",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Dolomitico",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Doolin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dorblu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dorémi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dorset",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dorstone",
+    "english": "Office, Department",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Doublet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dragon's Breath",
+    "english": "Fake, Fiction, Fantasy",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Dreux",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Driftless",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Driftwood",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Drommen",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Duet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dumbling",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dunbarra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dunbarton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dunlop",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Dunsyne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Duru",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Duroblardo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Durrus",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Echo Mountain",
+    "english": "Intelligent",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Edam",
+    "english": "To do, to make",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Eddpulz",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Edith",
+    "english": "Old",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Edithmaggie",
+    "english": "Fly",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Elberton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Elk",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ellington",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Emlett",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Emmental",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Epousses",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Esbareich",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Esrom",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Essex",
+    "english": "To eat, Food",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Estero",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Etorki",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Evansdale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Evora",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ewelicious",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Exmoor",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Explorateur",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Farmer",
+    "english": "To farm, Farmer",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Farmhouse",
+    "english": "House",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Farmerfarmhouse",
+    "english": "Farmhouse",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Fermiere",
+    "english": "Family",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Feta",
+    "english": "But",
+    "wordclass": "conj"
+  },
+  {
+    "cheese": "Ficaccio",
+    "english": "Female",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Fiery Rebel",
+    "english": "Sour",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Fiesta",
+    "english": "Fun, Party",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Figaro",
+    "english": "Fish",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Figue",
+    "english": "Game, to Play",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Filetta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Finea",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Finn",
+    "english": "5, Five, Fifth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Fior",
+    "english": "Fire, Burn, to burn",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Fiscalini",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Flagship",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Flashback",
+    "english": "Before, Past, Flashback",
+    "wordclass": "adv/n"
+  },
+  {
+    "cheese": "Flor de Guia",
+    "english": "Pretty",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Folded",
+    "english": "For, To",
+    "wordclass": "prep"
+  },
+  {
+    "cheese": "Fondant",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fontainebleau",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fontiago",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fontina",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Forest Rebel",
+    "english": "Nature, natural",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Formagella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Formaggio di capa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Forsterkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fortsonia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fougerus",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fourme",
+    "english": "4, Four, Fourth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Fragolone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Francis",
+    "english": "From",
+    "wordclass": "prep"
+  },
+  {
+    "cheese": "Freya",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Friesago",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Friesla",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Frinault",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Frying",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Funky",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Fynbo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Galbani",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Galette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Galloway",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gammelost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gamoneu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Garrotsa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gastanberra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Geitost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gippsland",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Giuncatella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Globe",
+    "english": "World, Foreign",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Gloucester",
+    "english": "Gun, to shoot",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Goat",
+    "english": "To Go",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Gorgonzola",
+    "english": "Goddard",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Gouda (u)",
+    "english": "Good",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Gouda (aʊ̯)",
+    "english": "God",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Gourmandise",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gouta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Goya",
+    "english": "Glory, Glorious",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Grabetto",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Graddost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Grafton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Grava",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gravera",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Grayson",
+    "english": "Ground, Floor",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Greve",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Grey Owl",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gubbean",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Guerbigny",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Gryère",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Habanero",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hafod",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Halloumi",
+    "english": "To have",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Harbison",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Harbourne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Harvest",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hayloft",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Haystack",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Heidi",
+    "english": "Bread roll, Hector harm",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Herbes",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hereford",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Herrgardsost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Herve",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hidden Falls",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Highway",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hillis",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hummelsraften",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Holy Cow",
+    "english": "Religion, Religious",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Hooligan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hoop",
+    "english": "Hatred, to Hate",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Hopyard",
+    "english": "How, like",
+    "wordclass": "adv"
+  },
+  {
+    "cheese": "Horizon",
+    "english": "Technology",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Hubbardston",
+    "english": "To dislike",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Huntsman",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Hushallsost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Idaho",
+    "english": "Corn",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Imokilly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Impromptu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Infossato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Innes",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Inverness",
+    "english": "England, English",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Iris",
+    "english": "In",
+    "wordclass": "prep"
+  },
+  {
+    "cheese": "Isabarra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Islara",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jalapeño",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jarlsberg",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jerni",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jibreh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Jubulec",
+    "english": "Jewel, Crystal, (specific type of the aformentioned words)",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Julianna",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kabritt",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kaltbach",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kanafen",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kanterkaas",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kashar",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kashkaval",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kashta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kasseri",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Keens",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kefalotyri",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Keltic",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kenne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kennebee",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kernhem",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kervella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kinsman",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kiri",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kirkham",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Klosterkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kolan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "König Ludwig",
+    "english": "Republic",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Kugelkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Kummin",
+    "english": "Communism, Communist",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Labreh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lacey",
+    "english": "Late, Later",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Lady Jane",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Laguiole",
+    "english": "Language",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Lairobell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lajta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lanark",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Landoff",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Langress",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lappi",
+    "english": "Line",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Largo",
+    "english": "Long, wide, broad",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Laruns",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lalleria",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lavistown",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Leafield",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lebbene",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Legacy",
+    "english": "History",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Legato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lemon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Leonora",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Liburnski",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Liliputas",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lil Moo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lincoln Log",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lincolnshire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lindale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lindy Hop",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lingot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Liptauer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Livarot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Llanboidy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "LLanglofan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Loddiswell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lovra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Longhorn",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lost Lake",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lunetta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Lyburn",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maasdam",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Macadamia",
+    "english": "Male",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Madrona",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maffra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maggie",
+    "english": "Maggot",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Mahoe",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mahón",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maisie",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Majonero",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Malvarosa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Malvern",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mamiolle",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Manchego",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mandolin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mango Rebel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Manon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Manouri",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Manteca",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Manur",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Marble",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Marco Polo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maredsous",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Margot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maribo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Marin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Marisa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Maroilles",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Martha",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mascares",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mascarpone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mastorazio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Matoca",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Medallion",
+    "english": "To Earn, To Win",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Meira",
+    "english": "To Meet, Meeting",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Melange",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Melinda",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Melville",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Menage",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mervallack",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Menorita",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Meredith",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mersey",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Météorite",
+    "english": "Fast, Quick",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Metronome",
+    "english": "Time",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Mettowee",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Meyer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mezza Luna",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Midnight",
+    "english": "To Sleep",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Mihalic",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Milama",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Milleens",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Millstone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mimolette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Miras",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Minuet",
+    "english": "Minus, Negative, to Subtract",
+    "wordclass": "prep/vb"
+  },
+  {
+    "cheese": "Mirabo",
+    "english": "Shy, Reclusive, to Hide",
+    "wordclass": "adj/vb"
+  },
+  {
+    "cheese": "Milicaña",
+    "english": "Milk",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Mladi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mobay",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Molbo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mona",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Monastery",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mondseer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Monet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Montagnolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Montasio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Monteherne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Monteo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Montgomery",
+    "english": "Military, Strategy, Strategic",
+    "wordclass": "adj/vb"
+  },
+  {
+    "cheese": "Montsalat",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Moonglo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Moose",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morangie",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morbier",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morcella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morgan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Moringhello",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Morlacco",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Moses",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mossfield",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mothais",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mountaineer",
+    "english": "Useful",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Mozzarella",
+    "english": "Hello",
+    "wordclass": "int/n"
+  },
+  {
+    "cheese": "Mozzarellissima",
+    "english": "Morning",
+    "wordclass": "n/int"
+  },
+  {
+    "cheese": "Muenster",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Muranda",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Murazzano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Mycella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Myzithra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Naboulsi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nantais",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nettle",
+    "english": "Never",
+    "wordclass": "adv"
+  },
+  {
+    "cheese": "Neufchatel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nicasio",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nocciolino",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nocciolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nocturne",
+    "english": "9, Nine, Ninth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Nobbelost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Northumberland",
+    "english": "Book, Notebook",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Noyan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Nut Rebel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oasis",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oaxaea",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Odysseus",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ogleshield",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Okanagan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Olivet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Olomoucké",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oltermani",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oma",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oregon",
+    "english": "Puzzle",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Oregonroule",
+    "english": "Escape Room",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Oregonzola",
+    "english": "Omniscient, Omniscience",
+    "wordclass": "adj/n"
+  },
+  {
+    "cheese": "Opus 42",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Orkney",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Orla",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oro",
+    "english": "Gold, Golden",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Oscypek",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ossau",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Oxford",
+    "english": "Horn",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Pacific",
+    "english": "Water, Wet",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Paesarella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paglierino",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paillot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Palot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pallone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paneer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Panela",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paniolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Panquehue",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paprika",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Parmesan",
+    "english": "Bit, Slightly",
+    "wordclass": "n/adv"
+  },
+  {
+    "cheese": "Parrano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Paški",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Passendale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pastoral",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Patefine",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pawlet",
+    "english": "Parent",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Pecorino",
+    "english": "To Put, to Place",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Pelardon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pembrokeshire",
+    "english": "School, to Teach",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Paramellera",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Penbryn",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pencarreg",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pepato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Perail",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Perlagrigia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Perroche",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Petida",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Petit",
+    "english": "French",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Pianoforte",
+    "english": "Private",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Piave",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Picobello",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Picolo",
+    "english": "Small",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Pied-de-vent",
+    "english": "Pickle",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Piere",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pigouille",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pimento",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pinconning",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Piora",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pizy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Plymouth",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pobolbin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pompeii",
+    "english": "Explosion, to Explode",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Postel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pourly",
+    "english": "Point, Argument",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Prauvie",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Prastost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "President",
+    "english": "Place",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Processed",
+    "english": "To Process, Processing",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Promontony",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Provel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Prondance",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Provoleta",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Provolone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pule",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pyengana",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Pyramide",
+    "english": "3, Three, Third",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Quadrello",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Quark",
+    "english": "To Ask, Question",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Quartirolo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Quatre-Vents",
+    "english": "Vehicle",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Queijo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Quercy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Queso blanco",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Queso iberico",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rabacal",
+    "english": "Radical",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Ragstone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ragusano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rasclera",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Reblochon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Red Leicester",
+    "english": "Lettuce",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Regal",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Reggianito",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Remedou",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Requeson",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Reverie",
+    "english": "Dream, to Dream",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Reypenaer",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rheba",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Richelieu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ricotta",
+    "english": "Vegetable",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "OasiRidders",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ridgeline",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rigotte",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ringwell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Roccia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rochebaron",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rofumo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rollot",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Romaniae",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Romano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Roneal",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rondo",
+    "english": "Meat",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Roquefort",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Roque",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rosso",
+    "english": "Red",
+    "wordclass": "n/adj"
+  },
+  {
+    "cheese": "Rotwein",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rougette",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Roule",
+    "english": "Room",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Rouleau",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Royalp",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Royal Rebel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rubens",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rubi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rupert",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rustico",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Rustinu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Saaland",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Saarenkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sagu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sage Derby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Salemville",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Salers",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Saltbush",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sanso",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sancerne",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sandy Creek",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sardo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sarró",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sarton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sbrinz",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sbronzo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Scallion",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Scamorza",
+    "english": "6, Six, Sixth",
+    "wordclass": "n/adj/adv"
+  },
+  {
+    "cheese": "Schloss",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Seahive",
+    "english": "To See, to Look, Sight",
+    "wordclass": "vb/n"
+  },
+  {
+    "cheese": "Seascape",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Seastack",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Selva",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Serat",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Serra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Shaker",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Shanklish",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sharpham",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sheep",
+    "english": "Hug, to Hug",
+    "wordclass": "n/vb"
+  },
+  {
+    "cheese": "Shelburie",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Shepsog",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Shropshire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Snowdrop",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sofia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Somerset",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sonnet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sonoma",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sosha",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sottocenere",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Soupmaintrain",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Spenwood",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Speziato",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Squaquerone",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Straffordshire",
+    "english": "County, Country, State",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Stanley",
+    "english": "Picture, Image, Photograph",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Stella",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sternschnuppe",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Stilton",
+    "english": "To Speak, to Say, to Talk",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Stinking Bishop",
+    "english": "Person, Human",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Strathdon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Strawberry Moon",
+    "english": "Fruit",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Striegstaler",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Striving",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Suffolk",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sulguni",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sunlight",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sunset Bay",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sussex",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Slipcote",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sveciaost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Swag",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Swaledale",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Sweet Style Swiss",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Swiss",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Takelma",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tala",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tallegia",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tamié",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tango",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tapas",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Taraglo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tarenlaise",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tartufi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tasmania",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tasty Lancashire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tavoliere",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tegan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Teifi",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Telemea",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tereru",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tete de Moive",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tetilla",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Texas Goat",
+    "english": "Thank you, Thanks",
+    "wordclass": "n/int"
+  },
+  {
+    "cheese": "Tezucki",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Thomasville",
+    "english": "Thomasville (The Capital of the Great Republoc)",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "TIbetan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ticklemore",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tieton",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tillamost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Timadeue",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Timboon",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Toma",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tomme",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Toscarello",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Touree",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tourmalet",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tourelle",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tozzetto",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Trappe",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Trappiste",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tregonwell",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Trelawney",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tronelion",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Trou du Cru",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Trufflestack",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Truffle Tremour",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tuada",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tunworth",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tupí",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Turunmaa",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tuscan",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Txiki",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tyresboro",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Tyning",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ubriaco",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Ullou",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Urdǎ",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vacherin",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vache Sante",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Valbreso",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Valenacy",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Valentine",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vampire Slayer",
+    "english": "Blood",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Van Gogh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vaquero",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vasterbattenost",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Veigadarte",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Veraco",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vendonois",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Veneto",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vento",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Venus",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vera",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vermont",
+    "english": "To have to",
+    "wordclass": "vb"
+  },
+  {
+    "cheese": "Vesuvius",
+    "english": "Mystical",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Victoria",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vieux",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vigneron",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vignotte",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Vulscombe",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wabash",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wagon Wheel",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Waimata",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wakotipu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Waldo Smog",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wall Street Gold",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Walnut",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wasabi Disc",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wasateh",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Waterloo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Waipoos",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Weichkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wellasley",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wellington",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wensleydale",
+    "english": "Welcome",
+    "wordclass": "n/int"
+  },
+  {
+    "cheese": "Westfield",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Weston",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wigmore",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Willoughby",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Windrush",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Winnimere",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Woodside",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wookey",
+    "english": "With",
+    "wordclass": "prep"
+  },
+  {
+    "cheese": "Woolly",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wrångebäck",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Wyfe of Bath",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Xynoloro",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Yarra",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Yeo",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Yorkshire",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Za'atar Burrata",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zamorano",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zanetti",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zartschmelzend",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zelu",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zigljen",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
+    "cheese": "Zwitser",
+    "english": "2, Two, Second",
+    "wordclass": "n/adj/adv"
+  }
+]
