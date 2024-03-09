@@ -15,4 +15,26 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   };
   xhr.send();
+
+  var filterInput = document.getElementById('filterInput');
+  filterInput.addEventListener('input', function () {
+    var filterValue = this.value.toLowerCase();
+    var rows = document.querySelectorAll("#data-table tbody tr");
+    rows.forEach(function (row) {
+      var cells = row.getElementsByTagName("td");
+      var found = false;
+      for (var i = 0; i < cells.length; i++) {
+        var cellText = cells[i].textContent.toLowerCase();
+        if (cellText.indexOf(filterValue) > -1) {
+          found = true;
+          break;
+        }
+      }
+      if (found) {
+        row.style.display = "";
+      } else {
+        row.style.display = "none";
+      }
+    });
+  });
 });
