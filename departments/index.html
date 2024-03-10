@@ -9,14 +9,14 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/custom.css">
 
-  <script defer src="js/bootstrap.bundle.min.js"></script>
+  <script defer src="/js/bootstrap.bundle.min.js"></script>
 </head>
 
 <body>
   <header class="py-3 bg-black">
     <div class="container d-flex flex-wrap justify-content-center">
       <a href="/" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto link-body-emphasis text-decoration-none">
-        <img src="assets/flag.png" height="35px" class="pe-3">
+        <img src="/assets/flag.png" height="35px" class="pe-3">
         <span class="fs-4 text-white">Kummin König Ludwig Gorgonzola</span>
       </a>
       <form class="col-12 col-lg-auto mb-3 mb-lg-0" role="search">
@@ -61,194 +61,184 @@
     </div>
   </nav>
 
-  <main class="container">
-    <div class="cards container row pb-3">
-      <div class="slider">
-        <div class="slide-track">
-          <div class="scroll-card col" id="cabinet">
-            <div class="card-content">
-              <h2 class="card-title">Cabinet</h2>
-              <p class="card-text">
-                The cabinet AKA the politburo helps declare law outside the departments
-              </p>
-              <a class="btn btn-warning" href="/cabinet">Enter</a>
-            </div>
+  <main class="container mt-4">
+    <h1>Departments</h1>
+    <span>The government in the Republic of Goddard is made up of several departments, each with their own
+      role in
+      running the country. Each is run by a Secretary of State.</span>
+
+
+    <div class="accordion mt-5" id="accordionExample">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            Cabinet
+          </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            The cabinet AKA the politburo helps declare law outside the departments <a
+              class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="Buisness">
-            <div class="card-content">
-              <h2 class="card-title">Buisness and economics</h2>
-              <p class="card-text">
-                our buisness and economics department's main aim is to control value and ensuring that items are more easily attained from international services, as well as helping run state-owned companies
-              </p>
-              <a class="btn btn-warning" href="buisness+economics/">Enter</a>
-            </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            Business and Economics
+          </button>
+        </h2>
+        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            Our buisness and economics department's main aim is to control value and ensuring that items are more easily
+            attained from international services, as well as helping run state-owned companies<a
+              class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="LD">
-            <div class="card-content">
-              <h2 class="card-title">history and media</h2>
-              <p class="card-text">
-                the culture and media department, or legacy dorstone is the organisation that controls the spread of information, as well as tv shows, games, films and books leading in innovation and beauty
-              </p>
-              <a class="btn btn-warning" href="LD/">Enter</a>
-            </div>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            History and Media
+          </button>
+        </h2>
+        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            The History and Media department, or legacy dorstone is the organisation that controls the spread of
+            information, as well as tv shows, games, films and books leading in innovation and beauty<a
+              class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="education">
-            <div class="card-content">
-              <h2 class="card-title">education</h2>
-              <p class="card-text">
-                the education department helps educate citizens from a young age, to ensure that they are highly knowledgable and wise.
-            </p>
-              <a class="btn btn-warning" href="education/">Enter</a>
-            </div>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+            Education
+          </button>
+        </h2>
+        <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            the education department helps educate citizens from a young age, to ensure that they are highly
+            knowledgable and wise.<a class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="environment">
-            <div class="card-content">
-              <h2 class="card-title">environment</h2>
-              <p class="card-text">
-                the environment department, we managge the preservation of our natural wildlife, air and weather via ensuring sustainable and clean methods of life
-              </p>
-              <a class="btn btn-warning" href="environments/">Enter</a>
-            </div>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+            Environment
+          </button>
+        </h2>
+        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            In the Environment Department, we manage the preservation of our natural wildlife, air and weather via
+            ensuring sustainable and clean methods of life. <a class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="health">
-            <div class="card-content">
-              <h2 class="card-title">health</h2>
-              <p class="card-text">
-                the health department makes sure that our citizens are healthy and happy.
-              </p>
-              <a class="btn btn-warning" href="health/">Enter</a>
-            </div>
+        </div>
+      </div>
+
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+            Health
+          </button>
+        </h2>
+        <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            The Health department makes sure that our citizens are healthy and happy.<a
+              class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="language-and-culture">
-            <div class="card-content">
-              <h2 class="card-title">language and culture</h2>
-              <p class="card-text">
-                in an age of cultural imperialism, our language and culture department ensures that the goddardian culture is preserved
-              </p>
-              <a class="btn btn-warning" href="language-and-culture/">Enter</a>
-            </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+            Language and Culture
+          </button>
+        </h2>
+        <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            in an age of cultural imperialism, our language and culture department ensures that the goddardian culture
+            is preserved<a class="btn btn-warning ms-3" href="/departments/language-and-culture/">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="military">
-            <div class="card-content">
-              <h2 class="card-title">military</h2>
-              <p class="card-text">
-                our military protects our nation, both from outside enemies and inside criminals, in order to protect our citizens'
-              </p>
-              <a class="btn btn-warning" href="military/">Enter</a>
-            </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+            National Defence and Military
+          </button>
+        </h2>
+        <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            our military protects our nation, both from outside enemies and inside criminals, in order to protect our
+            citizens<a class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-           <div class="scroll-card col" id="work">
-            <div class="card-content">
-              <h2 class="card-title">work and employment</h2>
-              <p class="card-text">
-                the work and employment department ensures that the citizens of the goddard are employed and have different jobs in order to maintain a great country
-              </p>
-              <a class="btn btn-warning" href="/work">Enter</a>
-            </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+            Technical Innovation and Digital Culture
+          </button>
+        </h2>
+        <div id="collapseNine" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            jasper pls write description
+            <a class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="technology">
-            <div class="card-content">
-              <h2 class="card-title">technology</h2>
-              <p class="card-text">
-                the technology department is dedicated  to progressing human technology in order to improve the life quality of our citizens
-              </p>
-              <a class="btn btn-warning" href="/technology">Enter</a>
-            </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+            Transport
+          </button>
+        </h2>
+        <div id="collapseTen" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            jasper pls write description<a class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="transport">
-            <div class="card-content">
-              <h2 class="card-title">transport</h2>
-              <p class="card-text">
-                the transport department ensures that our citizens can easily move through our nation and between our major cities
-              </p>
-              <a class="btn btn-warning" href="/transport">Enter</a>
-            </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+            Work
+          </button>
+        </h2>
+        <div id="collapseEleven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+          <div class="accordion-body">
+            jasper pls write description<a class="btn btn-warning ms-3">Learn more <img
+                src="/bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></a>
           </div>
-          <div class="scroll-card col" id="cabinet">
-            <div class="card-content">
-              <h2 class="card-title">Cabinet</h2>
-              <p class="card-text">
-                The cabinet AKA the politburo helps declare law outside the departments
-              </p>
-              <a class="btn btn-warning" href="/cabinet">Enter</a>
-            </div>
-          </div>
-          <div class="scroll-card col" id="Buisness">
-            <div class="card-content">
-              <h2 class="card-title">Buisness and economics</h2>
-              <p class="card-text">
-                our buisness and economics department's main aim is to control value and ensuring that items are more easily attained from international services, as well as helping run state-owned companies
-              </p>
-              <a class="btn btn-warning" href="buisness+economics/">Enter</a>
-            </div>
-          </div>
-          <div class="scroll-card col" id="LD">
-            <div class="card-content">
-              <h2 class="card-title">history and media</h2>
-              <p class="card-text">
-                the culture and media department, or legacy dorstone is the organisation that controls the spread of information, as well as tv shows, games, films and books leading in innovation and beauty
-              </p>
-              <a class="btn btn-warning" href="LD/">Enter</a>
-            </div>
-          </div>
-          <div class="scroll-card col" id="education">
-            <div class="card-content">
-              <h2 class="card-title">education</h2>
-              <p class="card-text">
-                the education department helps educate citizens from a young age, to ensure that they are highly knowledgable and wise.
-            </p>
-              <a class="btn btn-warning" href="education/">Enter</a>
-            </div>
-          </div>
-          <div class="scroll-card col" id="environment">
-            <div class="card-content">
-              <h2 class="card-title">environment</h2>
-              <p class="card-text">
-                the environment department, we managge the preservation of our natural wildlife, air and weather via ensuring sustainable and clean methods of life
-              </p>
-              <a class="btn btn-warning" href="environments/">Enter</a>
-            </div>
-          </div>
-          <div class="scroll-card col" id="health">
-            <div class="card-content">
-              <h2 class="card-title">health</h2>
-              <p class="card-text">
-                the health department makes sure that our citizens are healthy and happy.
-              </p>
-              <a class="btn btn-warning" href="health/">Enter</a>
-            </div>
-          </div>
-          <div class="scroll-card col" id="language-and-culture">
-            <div class="card-content">
-              <h2 class="card-title">language and culture</h2>
-              <p class="card-text">
-                in an age of cultural imperialism, our language and culture department ensures that the goddardian culture is preserved
-              </p>
-              <a class="btn btn-warning" href="language-and-culture/">Enter</a>
-            </div>
-          </div>
-          <div class="scroll-card col" id="military">
-            <div class="card-content">
-              <h2 class="card-title">military</h2>
-              <p class="card-text">
-                our military protects our nation, both from outside enemies and inside criminals, in order to protect our citizens'
-              </p>
-              <a class="btn btn-warning" href="military/">Enter</a>
-            </div>
-          </div>
-           
         </div>
       </div>
     </div>
-    <form>
-      <input class="input-group form-control">
-    </form>
-    <h1>The Republic of Goddard</h1>
-    <span>Welcome to the official website of the Republic of Goddard, a European micronation surrounded entirely by
-      the
-      United Kingdom of Great Britain and Northern Ireland.</span>
-    <button class="btn btn-warning">Learn more <img
-        src="bootstrap-icons-1.11.1/bootstrap-icons-1.11.1/arrow-right.svg"></button>
   </main>
 
 </body>
