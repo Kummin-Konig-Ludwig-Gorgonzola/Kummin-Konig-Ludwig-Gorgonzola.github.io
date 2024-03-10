@@ -131,7 +131,7 @@
   },
   {
     "cheese": "Alpe",
-    "english": "Big, Large",
+    "english": "Big, Large, Tall",
     "wordclass": "adj"
   },
   {
@@ -1035,6 +1035,11 @@
     "wordclass": "-"
   },
   {
+    "cheese": "Butterkäse",
+    "english": "-",
+    "wordclass": "-"
+  },
+  {
     "cheese": "Buttermilk",
     "english": "-",
     "wordclass": "-"
@@ -1806,8 +1811,8 @@
   },
   {
     "cheese": "Devil's Gulch",
-    "english": "To possess",
-    "wordclass": "vb"
+    "english": "possessive particle",
+    "wordclass": "particle"
   },
   {
     "cheese": "Devon",
