@@ -201,7 +201,7 @@
   },
   {
     "cheese": "Ami",
-    "english": "Comrade, Friend, Friendly",
+    "english": "Comrade",
     "wordclass": "n/adj"
   },
   {
@@ -2541,8 +2541,8 @@
   },
   {
     "cheese": "Inverness",
-    "english": "England, English",
-    "wordclass": "n/adj"
+    "english": "-",
+    "wordclass": "-"
   },
   {
     "cheese": "Iris",
