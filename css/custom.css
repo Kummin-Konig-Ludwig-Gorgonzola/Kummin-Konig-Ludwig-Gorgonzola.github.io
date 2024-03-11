@@ -66,7 +66,7 @@
   position: relative;
   overflow: hidden;
   cursor: default;
-  margin: 2px;
+  margin: 4px;
 }
 
 .scroll-card:hover .card-content {
@@ -95,7 +95,7 @@
   content: '';
   left: 0;
   bottom: -0.3em;
-  height: 2px;
+  height: 4px;
   width: 100%;
   position: absolute;
   background-color: red;
@@ -128,12 +128,12 @@
   margin: auto;
   overflow: hidden;
   position: relative;
-  width: 1300px;
+  width: 960px;
 }
 
 .slide-track {
   display: flex;
-  width: 3000px;
+  width: 2500px;
   animation: scroll 20s linear infinite;
   animation-play-state: running;
   transition: animation-play-state 1s ease;
