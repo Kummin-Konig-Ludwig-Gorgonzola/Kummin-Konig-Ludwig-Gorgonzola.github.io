@@ -136,8 +136,8 @@
   },
   {
     "cheese": "Alpe",
-    "english": "Big, Large, Tall",
-    "wordclass": "adj"
+    "english": "-",
+    "wordclass": "-"
   },
   {
     "cheese": "Alpha",
@@ -191,8 +191,8 @@
   },
   {
     "cheese": "Ambert",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Over, About",
+    "wordclass": "prep"
   },
   {
     "cheese": "Ameribella",
@@ -256,7 +256,7 @@
   },
   {
     "cheese": "Appalachian",
-    "english": "Rock, Stone, Pebble, Boulder",
+    "english": "Rock, Stone, Brick",
     "wordclass": "n"
   },
   {
