@@ -125,6 +125,11 @@
     "wordclass": "adj"
   },
   {
+    "cheese": "Allium Danish",
+    "english": "Daily, Every day",
+    "wordclass": "adv"
+  },
+  {
     "cheese": "Allium Yeo",
     "english": "Yearly, Every year",
     "wordclass": "adv"
@@ -136,8 +141,13 @@
   },
   {
     "cheese": "Alpe",
-    "english": "-",
-    "wordclass": "-"
+    "english": "After",
+    "wordclass": "prep"
+  },
+  {
+    "cheese": "Alpemozzarellisima",
+    "english": "Afternoon",
+    "wordclass": "n"
   },
   {
     "cheese": "Alpha",
