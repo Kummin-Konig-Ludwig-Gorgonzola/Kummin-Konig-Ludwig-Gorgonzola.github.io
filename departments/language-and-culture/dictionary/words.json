@@ -121,8 +121,13 @@
   },
   {
     "cheese": "Allium",
-    "english": "All",
+    "english": "All, Every",
     "wordclass": "adj"
+  },
+  {
+    "cheese": "Allium Yeo",
+    "english": "Yearly, Every year",
+    "wordclass": "adv"
   },
   {
     "cheese": "Almnas",
@@ -181,8 +186,8 @@
   },
   {
     "cheese": "Amarelo",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Clothing, Clothes",
+    "wordclass": "n"
   },
   {
     "cheese": "Ambert",
@@ -346,8 +351,13 @@
   },
   {
     "cheese": "Autun",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Leaf",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Autun Yetronome",
+    "english": "Autumn, Autumnal",
+    "wordclass": "n/adj"
   },
   {
     "cheese": "Avaxtskyr",
@@ -376,8 +386,8 @@
   },
   {
     "cheese": "Balaton",
-    "english": "nuclear, radioactive, nucleus",
-    "wordclass": "adj, n"
+    "english": "-",
+    "wordclass": "-"
   },
   {
     "cheese": "Balfour",
@@ -1005,9 +1015,14 @@
     "wordclass": "adj"
   },
   {
+    "cheese": "Buffamarelo",
+    "english": "Armour",
+    "wordclass": "n"
+  },
+  {
     "cheese": "Burgos",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Burger",
+    "wordclass": "n"
   },
   {
     "cheese": "Burrata",
@@ -2296,7 +2311,7 @@
   },
   {
     "cheese": "Goat",
-    "english": "To Go",
+    "english": "Will, to Go",
     "wordclass": "vb"
   },
   {
@@ -2307,6 +2322,11 @@
   {
     "cheese": "Gouda (u)",
     "english": "Good",
+    "wordclass": "adj"
+  },
+  {
+    "cheese": "Gouda (u) Babybel",
+    "english": "Goodbye",
     "wordclass": "adj"
   },
   {
@@ -4871,8 +4891,13 @@
   },
   {
     "cheese": "Yeo",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Year",
+    "wordclass": "n"
+  },
+  {
+    "cheese": "Yetronome",
+    "english": "Season, Time of Year",
+    "wordclass": "n"
   },
   {
     "cheese": "Yorkshire",
