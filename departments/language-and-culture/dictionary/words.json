@@ -90,6 +90,11 @@
     "wordclass": "int"
   },
   {
+    "cheese": "Aged Hubbardston",
+    "english": "To dislike",
+    "wordclass": "vb"
+  },
+  {
     "cheese": "Aggiano",
     "english": "Machine",
     "wordclass": "n"
@@ -2531,7 +2536,7 @@
   },
   {
     "cheese": "Hubbardston",
-    "english": "To dislike",
+    "english": "To like",
     "wordclass": "vb"
   },
   {
