@@ -1,5 +1,4 @@
-[
-  {
+[{
     "cheese": "Abbot's Gold",
     "english": "Precious, Valuable",
     "wordclass": "adj"
@@ -4660,11 +4659,6 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Vache Sante",
-    "english": "-",
-    "wordclass": "-"
-  },
-  {
     "cheese": "Valbreso",
     "english": "-",
     "wordclass": "-"
@@ -4958,5 +4952,4 @@
     "cheese": "Zwitser",
     "english": "2, Two, Second",
     "wordclass": "n/adj/adv"
-  }
-]
+  }]
