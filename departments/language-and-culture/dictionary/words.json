@@ -3505,8 +3505,8 @@
   },
   {
     "cheese": "Orla",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Or",
+    "wordclass": "conj"
   },
   {
     "cheese": "Oro",
@@ -3520,8 +3520,8 @@
   },
   {
     "cheese": "Ossau",
-    "english": "want",
-    "wordclass": "n/v"
+    "english": "Want, to Want",
+    "wordclass": "n/vb"
   },
   {
     "cheese": "Oxford",
