@@ -760,7 +760,22 @@
   },
   {
     "cheese": "Blue",
-    "english": "You",
+    "english": "You (sing)",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Blue Devil's Gulch",
+    "english": "Your/Yours (sing)",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Blue Blue"
+    "english": "You (pl)",
+    "wordclass": "p"
+  },
+  {
+    "cheese": "Blue Blue Devil's Gulch"
+    "english": "Your/Yours (pl)",
     "wordclass": "p"
   },
   {
@@ -894,12 +909,12 @@
     "wordclass": "p"
   },
   {
-    "cheese": "Bricks",
+    "cheese": "Brick Brick",
     "english": "They, Them",
     "wordclass": "p"
   },
   {
-    "cheese": "Bricks Devil's Gulch",
+    "cheese": "Brick Brick Devil's Gulch",
     "english": "Their, Theirs",
     "wordclass": "p"
   },
@@ -919,12 +934,12 @@
     "wordclass": "p"
   },
   {
-    "cheese": "Bries",
+    "cheese": "Brie Brie",
     "english": "We, Us",
     "wordclass": "p"
   },
   {
-    "cheese": "Bries Devil's Gulch",
+    "cheese": "Brie Brie Devil's Gulch",
     "english": "Our, Ours",
     "wordclass": "p"
   },
