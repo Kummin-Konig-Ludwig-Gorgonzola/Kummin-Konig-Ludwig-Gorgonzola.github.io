@@ -4135,13 +4135,13 @@
   },
   {
     "cheese": "Sardo",
-    "english": "-",
-    "wordclass": "-"
+    "english": "This",
+    "wordclass": "dem"
   },
   {
     "cheese": "Sarró",
-    "english": "-",
-    "wordclass": "-"
+    "english": "That",
+    "wordclass": "dem"
   },
   {
     "cheese": "Sarton",
