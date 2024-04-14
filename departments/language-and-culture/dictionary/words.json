@@ -535,13 +535,13 @@
   },
   {
     "cheese": "Beaufort",
-    "english": "-",
-    "wordclass": "-"
+    "english": "hell,hellish",
+    "wordclass": "n/adj"
   },
   {
     "cheese": "Beaumont",
-    "english": "-",
-    "wordclass": "-"
+    "english": "evil, devilish",
+    "wordclass": "n/adj"
   },
   {
     "cheese": "Beacher",
@@ -2505,8 +2505,8 @@
   },
   {
     "cheese": "Highway",
-    "english": "-",
-    "wordclass": "-"
+    "english": "highway, motorway, road",
+    "wordclass": "n"
   },
   {
     "cheese": "Hillis",
