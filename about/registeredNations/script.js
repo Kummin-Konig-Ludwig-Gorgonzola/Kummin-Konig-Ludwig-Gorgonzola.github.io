@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   var xhr = new XMLHttpRequest();
-  xhr.open("GET", "words.json", true);
+  xhr.open("GET", "nations.json", true);
   xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
       var data = JSON.parse(xhr.responseText);
