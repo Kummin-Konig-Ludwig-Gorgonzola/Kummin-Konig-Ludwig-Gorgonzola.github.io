@@ -1,7 +1,35 @@
-[{
+[
+  {
+      "cheese": "Adamburg",
+      "english": "the goddard believes the socialist state of Adamburg could be an important sibling-nation.",
+      "wordclass": "USA"
+  },
+ {
     "cheese": "Afganistan",
     "english": "the goddard does not recognise the occupation of afganistan by the terrorist organisation known as the taliban.",
-    "wordclass": "borders iran, turkmenistan, uzbekistan,tajiikistan, pakistaan, bhutan"
+    "wordclass": "borders iran, turkmenistan, uzbekistan,tajiikistan, pakistaan, china, india"
+  },
+
+  {
+      "cheese": "albania",
+      "english": "",
+      "wordclass": "kosovo, montenegro,greece,north macedonia"
+  },
+  {
+      "cheese": "algeria",
+      "english": "",
+      "wordclass": "morocco,mali,mauritania,tunisia,libya,niger"
+  },
+  {
+      "cheese": "Angola",
+      "english": "",
+      "wordclass": "namibia, zambia, democratic republic of the congo"
+  },
+  {
+      "cheese": "Andorra",
+      "english": "this tiny state is registered by the goddardian government separate of france or spain",
+      "wordclass": "france,spain"
   }
+
 ]
   
