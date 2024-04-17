@@ -45,26 +45,442 @@
       "wordclass": "canada"
   },
     {
-      "cheese": "",
-      "english": "", 
-      "wordclass": ""
+      "cheese": "argentina",
+      "english": "argentina has recently unfortunately fell on poor times with a libertarian government", 
+      "wordclass": "chile, brazil, bolivia, paraguay"
   },  {
-      "cheese": "",
+      "cheese": "armenia",
+      "english": "",
+      "wordclass": "azerbaijan, turkiye,iran,goergia"
+  },  {
+      "cheese": "Arstotzkan union",
+      "english": "the union is dedicated to protecting equality, and that is good.",
+      "wordclass": "new zealand,CDG, Ward empire,GAR"
+  },  {
+      "cheese": "australia",
       "english": "",
       "wordclass": ""
   },  {
-      "cheese": "",
+      "cheese": "austria",
+      "english": "",
+      "wordclass": "hungary,czechia, slovakia,slovenia,germany,switzerland,italy,bartonia, hugoland"
+  },  {
+      "cheese": "bahamas",
+      "english": "",
+      "wordclass": ""
+  },
+   {
+      "cheese": "bahrain",
       "english": "",
       "wordclass": ""
   },  {
+      "cheese": "Ballinfoyleburg",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "bangladesh",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "barbados",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "bartonia",
+      "english": "",
+      "wordclass": "austria,"
+  },
+    {
+      "cheese": "belarus",
+      "english": "the nation of belarus is barely even a nation, a russian puppet too busy licking the feet of vladamir putin.",
+      "wordclass": "latvia, lithuania,ukraine,poland,russia"
+  },
+    {
+      "cheese": "belgium",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "belize",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "benin"
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "benjastan",
+      "english": "the state finds it funny we hava a similar name of a capital city. pickleism is a neat ideology too.",
+      "wordclass": "canada,USA"
+  },
+    {
+      "cheese": "bhutan",
+      "english": "the state does not aggree with current land claims from bhutan that overlap china",
+      "wordclass": ""
+  },
+    {
+      "cheese": "bolivia",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Bosnia and Herzegovina",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "botswana",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "brazil",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "brunei",
+      "english": "",
+      "wordclass": "malaysia"
+  },
+    {
+      "cheese": "bulgaria",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "burkina faso",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "burundi",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "ivory coast",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "cabo verde",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "cameroon",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "canada",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Central African Republic",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "costa rica",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "croatia",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "cuba",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "cyprus",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "czechia",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "the congo",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Denmark",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Djibouti",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "dominica",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "dominican republic",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "ecuador",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Egypt",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "el salvador",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Equatorial guinea",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Eritrea",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "estonia",
+      "english": "the goddard respects both estonias as equally valid",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Estonian socialist republic",
+      "english": "the goddard respects both estonias as equally valid",
+      "wordclass": ""
+  },
+    {
+      "cheese": "Eswatini",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "ethiopia",
+      "english": "",
+      "wordclass": ""
+  },
+    {
+      "cheese": "fiji",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "finland",
+      "english": "",
+      "wordclass": "norway,sweden,russia"
+  },{
+      "cheese": "gabon",
+      "english": "",
+      "wordclass": ""
+  },{
+      "cheese": "gambia",
+      "english": "",
+      "wordclass": ""
+  },{
+      "cheese": "confederate democracy of gamers",
+      "english": "gaming time",
+      "wordclass": "new zealand,ward empire, GAR, arstotzkan"
+  },
+  {
+      "cheese": "georgia",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "west germany",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "east germany",
+      "english": "the goddard does not recognise the cuban annexation of east germany",
+      "wordclass": ""
+  },
+  {
+      "cheese": "ghana",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "grayson administrative region",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "greece",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "granada",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "autonomous socialist republic of griffasus",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "guatemala",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "guinea",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "guinea-bissau",
+      "english": "",
+      "wordclass": ""
+  },
+{
+      "cheese": "guyana",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "haiti",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "empire of him",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "holy see",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "honduras",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "free anarchist state of hugoland",
+      "english": "the state is lightly concerned about anarchy, but since humans are inherently good, we hope the horrors of capitalism are not absorbed",
+      "wordclass": "austria"
+  },
+  {
+      "cheese": "hungary",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "iceland",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "people's republic of illunois",
+      "english": "neato",
+      "wordclass": "USA"
+  },
+  {
+      "cheese": "india",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "indonesia",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "iran",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "iraq",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "ireland",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "israel",
+      "english": "the goddard does not respect israeli occupation of palestine and the constant bombing of palestinian citizens",
+      "wordclass": ""
+  },
+  {
+      "cheese": "italy",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "socialist republic of jakwal",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "jamaica",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "japan",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "jordan",
+      "english": "",
+      "wordclass": ""
+  },
+  {
+      "cheese": "kazahkstan",
+      "english": "",
+      "wordclass": ""
+  },
+  {
       "cheese": "",
       "english": "",
       "wordclass": ""
-  },  {
+  },
+  {
       "cheese": "",
       "english": "",
       "wordclass": ""
-  },  {
+  },
+  {
+      "cheese": "",
+      "english": "",
+      "wordclass": ""
+  },
+  {
       "cheese": "",
       "english": "",
       "wordclass": ""
@@ -74,6 +490,5 @@
       "english": "",
       "wordclass": ""
   }
-
 ]
   
