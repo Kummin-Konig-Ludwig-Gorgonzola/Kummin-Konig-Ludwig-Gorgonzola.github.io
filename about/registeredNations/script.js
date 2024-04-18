@@ -9,8 +9,8 @@ document.addEventListener("DOMContentLoaded", function () {
         var row = tableBody.insertRow();
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
-        cell1.innerHTML = '<strong>' + item.country + '</strong> <span style="font-size: small;">' + item.wordclass + '</span>';
-        cell2.textContent = item.english;
+        cell1.innerHTML = '<strong>' + item.country + '</strong> <span style="font-size: small;">' + item.borders + '</span>';
+        cell2.textContent = item.notes;
       });
     }
   };
