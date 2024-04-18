@@ -67,12 +67,12 @@
   },  {
       "country": "bahamas",
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "island"
   },
    {
       "country": "bahrain",
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "island"
   },  {
       "country": "Ballinfoyleburg",
       "notes": "no notes"
@@ -81,7 +81,7 @@
   {
       "country": "bangladesh",
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "india,myanmar"
   },
   {
       "country": "barbados",
@@ -101,17 +101,17 @@
     {
       "country": "belgium",
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "luxembourg,netherlands,west germany"
   },
     {
       "country": "belize",
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "guatamala,mexico"
   },
     {
       "country": "benin"
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "niger,togo,nigeria,burkina faso"
   },
     {
       "country": "benjastan",
@@ -121,22 +121,22 @@
     {
       "country": "bhutan",
       "notes": "the state does not aggree with current land claims from bhutan that overlap china",
-      "borders": "no notes"
+      "borders": "china"
   },
     {
       "country": "bolivia",
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "peru,chile,brazil,argentina,paraguay"
   },
     {
       "country": "Bosnia and Herzegovina",
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "serbia,croatia,montenegro"
   },
   {
       "country": "botswana",
       "notes": "no notes"
-      "borders": "no notes"
+      "borders": "namibia,south africa,zimbabwe,zambia"
   },
   {
       "country": "brazil",
