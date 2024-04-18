@@ -17,12 +17,12 @@
   },
   {
       "country": "algeria",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "morocco,mali,mauritania,tunisia,libya,niger"
   },
   {
       "country": "Angola",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "namibia, zambia, democratic republic of the congo"
   },
   {
@@ -50,7 +50,7 @@
       "borders": "chile, brazil, bolivia, paraguay"
   },  {
       "country": "armenia",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "azerbaijan, turkiye,iran,goergia"
   },  {
       "country": "Arstotzkan union",
@@ -58,39 +58,39 @@
       "borders": "new zealand,CDG, Ward empire,GAR"
   },  {
       "country": "australia",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },  {
       "country": "austria",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "hungary,czechia, slovakia,slovenia,germany,switzerland,italy,bartonia, hugoland"
   },  {
       "country": "bahamas",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "island"
   },
    {
       "country": "bahrain",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "island"
   },  {
       "country": "Ballinfoyleburg",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "bangladesh",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "india,myanmar"
   },
   {
       "country": "barbados",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "bartonia",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "austria,"
   },
     {
@@ -100,17 +100,17 @@
   },
     {
       "country": "belgium",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "luxembourg,netherlands,west germany"
   },
     {
       "country": "belize",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "guatamala,mexico"
   },
     {
       "country": "benin"
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "niger,togo,nigeria,burkina faso"
   },
     {
@@ -125,181 +125,181 @@
   },
     {
       "country": "bolivia",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "peru,chile,brazil,argentina,paraguay"
   },
     {
       "country": "Bosnia and Herzegovina",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "serbia,croatia,montenegro"
   },
   {
       "country": "botswana",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "namibia,south africa,zimbabwe,zambia"
   },
   {
       "country": "brazil",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "brunei",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "malaysia"
   },
     {
       "country": "bulgaria",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "burkina faso",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "burundi",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "ivory coast",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "cabo verde",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "cameroon",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "canada",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "Central African Republic",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "costa rica",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "croatia",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "cuba",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "cyprus",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "czechia",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "the congo",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "Denmark",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "Djibouti",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "dominica",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "dominican republic",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "ecuador",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "Egypt",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "el salvador",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "Equatorial guinea",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "Eritrea",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "estonia",
       "notes": "the goddard respects both estonias as equally valid",
-      "borders": "no notes"
+      "borders": "no notes",
   },
     {
       "country": "Estonian socialist republic",
       "notes": "the goddard respects both estonias as equally valid",
-      "borders": "no notes"
+      "borders": "no notes",
   },
     {
       "country": "Eswatini",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "ethiopia",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
     {
       "country": "fiji",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "finland",
-      "notes": "no notes"
+      "notes": "no notes",
       "borders": "norway,sweden,russia"
   },{
       "country": "gabon",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },{
       "country": "gambia",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },{
       "country": "confederate democracy of gamers",
       "notes": "gaming time",
@@ -307,83 +307,83 @@
   },
   {
       "country": "georgia",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "west germany",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "east germany",
       "notes": "the goddard does not recognise the cuban annexation of east germany",
-      "borders": "no notes"
+      "borders": "no notes",
   },
   {
       "country": "ghana",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "grayson administrative region",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "greece",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "granada",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "autonomous socialist republic of griffasus",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "guatemala",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "guinea",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "guinea-bissau",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
 {
       "country": "guyana",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "haiti",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "empire of him",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "holy see",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "honduras",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "free anarchist state of hugoland",
@@ -392,13 +392,13 @@
   },
   {
       "country": "hungary",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "iceland",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "people's republic of illunois",
@@ -407,63 +407,63 @@
   },
   {
       "country": "india",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "indonesia",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "iran",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "iraq",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "ireland",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "israel",
       "notes": "the goddard does not respect israeli occupation of palestine and the constant bombing of palestinian citizens",
-      "borders": "no notes"
+      "borders": "no notes",
   },
   {
       "country": "italy",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "socialist republic of jakwal",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "jamaica",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "japan",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "jordan",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   },
   {
       "country": "kazahkstan",
-      "notes": "no notes"
-      "borders": "no notes"
+      "notes": "no notes",
+      "borders": "no notes",
   }
 ]
   
