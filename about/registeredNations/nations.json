@@ -75,8 +75,8 @@
         "borders": "island"
     },  {
         "country": "Ballinfoyleburg",
-        "notes": "no notes",
-        "borders": "no notes"
+        "notes": "the goddard does not support the annexation of the state by unregistered attempts at state formation",
+        "borders": "ireland"
     },
     {
         "country": "bangladesh",
@@ -86,7 +86,7 @@
     {
         "country": "barbados",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island"
     },
     {
         "country": "bartonia",
@@ -141,7 +141,7 @@
     {
         "country": "brazil",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "guyana,uraguay,paraguay,suriname,venezuela,colombia,peru,bolivia,argentina"
     },
       {
         "country": "brunei",
@@ -151,72 +151,72 @@
       {
         "country": "bulgaria",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "greece,romania,serbia,north macedonia,turkiye"
     },
       {
         "country": "burkina faso",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "benin,ghana,togo,mali,niger,ivory coast"
     },
       {
         "country": "burundi",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "rwanda,dem. congo,tanzia"
     },
       {
         "country": "ivory coast",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "mali,ghana,burkina faso,liberia,guinea"
     },
       {
         "country": "cabo verde",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island"
     },
       {
         "country": "cameroon",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "nigeria,chad,CAR,gabon,congo,equatorial guinea"
     },
       {
         "country": "canada",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "athabasca,benjastan,USA,denmark"
     },
       {
         "country": "Central African Republic",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "congo,dem. congo,cameroon,chad,north and south sudan"
     },
       {
         "country": "costa rica",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "panama,nicaragua"
     },
       {
         "country": "croatia",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "hungary, slovenia,bosnia and herzegovina"
     },
       {
         "country": "cuba",
-        "notes": "no notes",
-        "borders": "no notes"
+        "notes": "the state does not accept the unlawful annexation of east german land by cuba",
+        "borders": "island nation"
     },
       {
         "country": "cyprus",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island nation"
     },
       {
         "country": "czechia",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "austria,slovakia,germany,poland"
     },
       {
-        "country": "the congo",
+        "country": "democratic congo",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "congo,CAR,rwanda,burundi,uganda,tanzania,south sudan,zambia,angola"
     },
       {
         "country": "Denmark",
