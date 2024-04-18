@@ -12,17 +12,17 @@
 
   {
       "cheese": "albania",
-      "english": "",
+      "english": "-",
       "wordclass": "kosovo, montenegro,greece,north macedonia"
   },
   {
       "cheese": "algeria",
-      "english": "",
+      "english": "-",
       "wordclass": "morocco,mali,mauritania,tunisia,libya,niger"
   },
   {
       "cheese": "Angola",
-      "english": "",
+      "english": "-",
       "wordclass": "namibia, zambia, democratic republic of the congo"
   },
   {
@@ -50,7 +50,7 @@
       "wordclass": "chile, brazil, bolivia, paraguay"
   },  {
       "cheese": "armenia",
-      "english": "",
+      "english": "-",
       "wordclass": "azerbaijan, turkiye,iran,goergia"
   },  {
       "cheese": "Arstotzkan union",
@@ -58,39 +58,39 @@
       "wordclass": "new zealand,CDG, Ward empire,GAR"
   },  {
       "cheese": "australia",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },  {
       "cheese": "austria",
-      "english": "",
+      "english": "-",
       "wordclass": "hungary,czechia, slovakia,slovenia,germany,switzerland,italy,bartonia, hugoland"
   },  {
       "cheese": "bahamas",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
    {
       "cheese": "bahrain",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },  {
       "cheese": "Ballinfoyleburg",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "bangladesh",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "barbados",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "bartonia",
-      "english": "",
+      "english": "-",
       "wordclass": "austria,"
   },
     {
@@ -100,18 +100,18 @@
   },
     {
       "cheese": "belgium",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "belize",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "benin"
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "benjastan",
@@ -121,185 +121,185 @@
     {
       "cheese": "bhutan",
       "english": "the state does not aggree with current land claims from bhutan that overlap china",
-      "wordclass": ""
+      "wordclass": "-"
   },
     {
       "cheese": "bolivia",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "Bosnia and Herzegovina",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "botswana",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "brazil",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "brunei",
-      "english": "",
+      "english": "-",
       "wordclass": "malaysia"
   },
     {
       "cheese": "bulgaria",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "burkina faso",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "burundi",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "ivory coast",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "cabo verde",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "cameroon",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "canada",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "Central African Republic",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "costa rica",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "croatia",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "cuba",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "cyprus",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "czechia",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "the congo",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "Denmark",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "Djibouti",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "dominica",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "dominican republic",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "ecuador",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "Egypt",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "el salvador",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "Equatorial guinea",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "Eritrea",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "estonia",
       "english": "the goddard respects both estonias as equally valid",
-      "wordclass": ""
+      "wordclass": "-"
   },
     {
       "cheese": "Estonian socialist republic",
       "english": "the goddard respects both estonias as equally valid",
-      "wordclass": ""
+      "wordclass": "-"
   },
     {
       "cheese": "Eswatini",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "ethiopia",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
     {
       "cheese": "fiji",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "finland",
-      "english": "",
+      "english": "-",
       "wordclass": "norway,sweden,russia"
   },{
       "cheese": "gabon",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },{
       "cheese": "gambia",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },{
       "cheese": "confederate democracy of gamers",
       "english": "gaming time",
@@ -307,83 +307,83 @@
   },
   {
       "cheese": "georgia",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "west germany",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "east germany",
       "english": "the goddard does not recognise the cuban annexation of east germany",
-      "wordclass": ""
+      "wordclass": "-"
   },
   {
       "cheese": "ghana",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "grayson administrative region",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "greece",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "granada",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "autonomous socialist republic of griffasus",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "guatemala",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "guinea",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "guinea-bissau",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
 {
       "cheese": "guyana",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "haiti",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "empire of him",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "holy see",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "honduras",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "free anarchist state of hugoland",
@@ -392,13 +392,13 @@
   },
   {
       "cheese": "hungary",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "iceland",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "people's republic of illunois",
@@ -407,63 +407,63 @@
   },
   {
       "cheese": "india",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "indonesia",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "iran",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "iraq",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "ireland",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "israel",
       "english": "the goddard does not respect israeli occupation of palestine and the constant bombing of palestinian citizens",
-      "wordclass": ""
+      "wordclass": "-"
   },
   {
       "cheese": "italy",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "socialist republic of jakwal",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "jamaica",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "japan",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "jordan",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   },
   {
       "cheese": "kazahkstan",
-      "english": "",
-      "wordclass": ""
+      "english": "-",
+      "wordclass": "-"
   }
 ]
   
