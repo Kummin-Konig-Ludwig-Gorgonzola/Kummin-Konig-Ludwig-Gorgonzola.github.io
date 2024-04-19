@@ -59,7 +59,7 @@
     },  {
         "country": "australia",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "apisia"
     },  {
         "country": "austria",
         "notes": "no notes",
@@ -221,72 +221,72 @@
       {
         "country": "Denmark",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "germany,canada"
     },
       {
         "country": "Djibouti",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "eritrea,ethiopia,somalia"
     },
       {
         "country": "dominica",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island"
     },
       {
         "country": "dominican republic",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "haiti"
     },
       {
         "country": "ecuador",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "peru,colombia"
     },
       {
         "country": "Egypt",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "israel,palestine,sudan,libya"
     },
       {
         "country": "el salvador",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "guatemala, honduras"
     },
       {
         "country": "Equatorial guinea",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "gabon,cameroon"
     },
       {
         "country": "Eritrea",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "north sudan, ethiopia,djibouti"
     },
       {
         "country": "estonia",
         "notes": "the goddard respects both estonias as equally valid",
-        "borders": "no notes"
+        "borders": "latvia,russia,ESR"
     },
       {
         "country": "Estonian socialist republic",
         "notes": "the goddard respects both estonias as equally valid",
-        "borders": "no notes"
+        "borders": "Estonia"
     },
       {
         "country": "Eswatini",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "mozambique, south africa"
     },
       {
         "country": "ethiopia",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "eritrea,djibouti,somalia,kenya,uganda,north sudan,south sudan"
     },
       {
         "country": "fiji",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island"
     },
     {
         "country": "finland",
@@ -295,11 +295,11 @@
     },{
         "country": "gabon",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "congo,cameroon,equatorial guinea"
     },{
         "country": "gambia",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "senegal"
     },{
         "country": "confederate democracy of gamers",
         "notes": "gaming time",
@@ -308,17 +308,17 @@
     {
         "country": "georgia",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "russia,armenia,azerbajan, turkiye"
     },
     {
         "country": "west germany",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "austria,czechia,poland,luxembourg,denmark,netherlands,switzerland,belgium"
     },
     {
         "country": "east germany",
         "notes": "the goddard does not recognise the cuban annexation of east germany",
-        "borders": "no notes"
+        "borders": "island nation"
     },
     {
         "country": "ghana",
