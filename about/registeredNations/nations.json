@@ -323,52 +323,52 @@
     {
         "country": "ghana",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "burkina faso,togo,ivory coast"
     },
     {
         "country": "grayson administrative region",
-        "notes": "no notes",
-        "borders": "no notes"
+        "notes": "communism is nice. very nice.",
+        "borders": "arstotzkan union,new zealand,ward empire,CDG"
     },
     {
         "country": "greece",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "albania,turkiye,north macedonia,bulgaria"
     },
     {
         "country": "granada",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island"
     },
     {
         "country": "autonomous socialist republic of griffasus",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "united states"
     },
     {
         "country": "guatemala",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "mexico,belize,el salvador,honduras"
     },
     {
         "country": "guinea",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "senegal,liberia,guinea-bissau,ivory coast, mali,sierra lione"
     },
     {
         "country": "guinea-bissau",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "guinea,senegal"
     },
   {
         "country": "guyana",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "seriname,venesuela,brazil"
     },
     {
         "country": "haiti",
-        "notes": "no notes",
-        "borders": "no notes"
+        "notes": "haiti is emblematic of the issues with capitalism, with descendants of former slaves that revolted being stick in poverty under capitalism, serving the descendants of the slave masters outide of the country",
+        "borders": "dominican republic"
     },
     {
         "country": "empire of him",
@@ -378,12 +378,12 @@
     {
         "country": "holy see",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "italy"
     },
     {
         "country": "honduras",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "guatemala, el salvador,nicaragua"
     },
     {
         "country": "free anarchist state of hugoland",
@@ -393,77 +393,103 @@
     {
         "country": "hungary",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "slovakia,serbia,croatia,romania,austria,slovenia"
     },
     {
         "country": "iceland",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island"
     },
     {
         "country": "people's republic of illunois",
-        "notes": "neato",
+        "notes": "we like people",
         "borders": "USA"
     },
     {
         "country": "india",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "china,pakistan, nepal,bangladesh,bhutan,myanmar"
     },
     {
         "country": "indonesia",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "malaysia,papa new guinea"
     },
     {
         "country": "iran",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "turkmenistan,pakistan,afganistan,iraq,turkiye,azerbaijan"
     },
     {
         "country": "iraq",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "iran,jordan,saudi arabia,turkiye,syria,kuwait"
     },
     {
         "country": "ireland",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "UK,ballinfoyleburg"
     },
     {
         "country": "israel",
         "notes": "the goddard does not respect israeli occupation of palestine and the constant bombing of palestinian citizens",
-        "borders": "no notes"
+        "borders": "palestine,jordan,egypt,syria"
     },
     {
         "country": "italy",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "holy see,monaco,austria,slovenia,switzerland"
     },
     {
         "country": "socialist republic of jakwal",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "USA"
     },
     {
         "country": "jamaica",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island"
     },
     {
         "country": "japan",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "island"
     },
     {
         "country": "jordan",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "palestine,israel,syria,iraq,saudi arabia"
     },
     {
         "country": "kazahkstan",
         "notes": "no notes",
         "borders": "no notes"
+    },
+    {
+        "country": "",
+        "notes": "",
+        "borders": ""
+    },
+    {
+        "country": "",
+        "notes": "",
+        "borders": ""
+    },
+    {
+        "country": "",
+        "notes": "",
+        "borders": ""
+    },
+    {
+        "country": "",
+        "notes": "",
+        "borders": ""
+    },
+    {
+        "country": "",
+        "notes": "",
+        "borders": ""
     }
+    
   ]
     
