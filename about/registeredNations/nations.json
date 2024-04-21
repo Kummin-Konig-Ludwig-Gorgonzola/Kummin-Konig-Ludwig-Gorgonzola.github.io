@@ -44,6 +44,11 @@
         "notes": "the state of athabasca has recently seen a socialist party take control",
         "borders": "canada"
     },
+    {
+        "country": "arazanian republic",
+        "notes": "we like their wall to protect from fascists",
+        "borders": "USA"
+    },
       {
         "country": "argentina",
         "notes": "argentina has recently unfortunately fell on poor times with a libertarian government", 
@@ -301,7 +306,13 @@
         "country": "gabon",
         "notes": "no notes",
         "borders": "congo,cameroon,equatorial guinea"
-    },{
+    },
+    {
+        "country": "gamerland",
+        "notes": "the goddard does not respect all annexations of icelan",
+        "borders": "iceland"
+    },
+    {
         "country": "gambia",
         "notes": "no notes",
         "borders": "senegal"
@@ -466,33 +477,38 @@
         "borders": "palestine,israel,syria,iraq,saudi arabia"
     },
     {
+        "country": "kaetania",
+        "notes": "we hope this nation drops the monarchy held upon it",
+        "borders": "USA"
+    },
+    {
         "country": "kazahkstan",
         "notes": "no notes",
-        "borders": "no notes"
+        "borders": "turkmenistan,kyrgestan,uzbekustan,china,russia"
+    },
+    {
+        "country": "kenya",
+        "notes": "no notes",
+        "borders": "south sudan,tansania,uganda,somalia,ethiopia"
     },
     {
         "country": "",
-        "notes": "",
+        "notes": "no notes",
         "borders": ""
     },
     {
         "country": "",
-        "notes": "",
+        "notes": "no notes",
         "borders": ""
     },
     {
         "country": "",
-        "notes": "",
+        "notes": "no notes",
         "borders": ""
     },
     {
         "country": "",
-        "notes": "",
-        "borders": ""
-    },
-    {
-        "country": "",
-        "notes": "",
+        "notes": "no notes",
         "borders": ""
     }
     
