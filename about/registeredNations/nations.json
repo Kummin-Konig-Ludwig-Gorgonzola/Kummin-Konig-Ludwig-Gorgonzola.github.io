@@ -20,21 +20,28 @@
         "notes": "no notes",
         "borders": "morocco,mali,mauritania,tunisia,libya,niger"
     },
-    {
-        "country": "Angola",
-        "notes": "no notes",
-        "borders": "namibia, zambia, democratic republic of the congo"
-    },
+    
     {
         "country": "Andorra",
         "notes": "this tiny state is registered by the goddardian government separate of france or spain",
         "borders": "france,spain"
     },
     {
+        "country": "Angola",
+        "notes": "no notes",
+        "borders": "namibia, zambia, democratic republic of the congo"
+    },
+    {
         "country": "Anguida and Barbuda",
         "notes": "the goddard respects these 2 islands as one unified nation",
         "borders": "island nation"
-    },  {
+    },  
+{
+        "country": "Ankkai",
+        "notes": "they seem nice.",
+        "borders": "west germany"
+    },
+    {
         "country": "apisia",
         "notes": "the goddard  sees the socialist nation as another one oppresed by the international bourgoisie",
         "borders": "australia"
@@ -197,6 +204,11 @@
         "country": "china",
         "notes": "the goddard does not respect the meritocratic occupation of china by 'people'",
         "borders": "korea,mongolia,russia,kazakhstan,kyrgystan,nepal,bhutan,vietnam,laos,india,pakistan,tajikistan"
+    },
+    {
+        "country": "chavelier union",
+        "notes": "we do not support the corporate annexation of lostcow.",
+        "borders": "USA"
     },
       {
         "country": "costa rica",
@@ -482,6 +494,11 @@
         "borders": "USA"
     },
     {
+        "country": "kamenrus",
+        "notes": "russian annexation attempts on kamenrussian land is viewed by the goddard as unjust",
+        "borders": "ukraine"
+    },
+    {
         "country": "kazahkstan",
         "notes": "no notes",
         "borders": "turkmenistan,kyrgestan,uzbekustan,china,russia"
@@ -491,18 +508,89 @@
         "notes": "no notes",
         "borders": "south sudan,tansania,uganda,somalia,ethiopia"
     },
+    
     {
-        "country": "",
+        "country": "kiribati",
+        "notes": "no notes",
+        "borders": "island"
+    },
+    {
+        "country": "kiwistan",
+        "notes": "the borders of kiwistan seem to constantly be changing. it would be nice to give proper borders, but seems to be always with new zealand",
+        "borders": "new zealand"
+    },
+    {
+        "country": "kuwait",
+        "notes": "no notes",
+        "borders": "iraq,saudi arabia"
+    },
+    {
+        "country": "kyrgystan",
+        "notes": "no notes",
+        "borders": "kazakhstan,china,tajikistan,uzbekistan"
+    },
+    {
+        "country": "laos",
         "notes": "no notes",
         "borders": ""
     },
     {
-        "country": "",
+        "country": "latvia",
         "notes": "no notes",
         "borders": ""
     },
     {
-        "country": "",
+        "country": "lazonesia",
+        "notes": "no notes",
+        "borders": "canada"
+    },
+    {
+        "country": "lebanon",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "lesotho",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "liberia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "libertas",
+        "notes": "nice capital there.",
+        "borders": "USA"
+    },
+    {
+        "country": "libya",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "liechtenstein",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "lithuania",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "luxembourg",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "madagascar",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "malawi",
         "notes": "no notes",
         "borders": ""
     },
@@ -511,6 +599,5 @@
         "notes": "no notes",
         "borders": ""
     }
-    
   ]
     
