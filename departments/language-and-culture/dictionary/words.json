@@ -1473,6 +1473,11 @@
     "english": "Happy",
     "wordclass": "adj"
   },
+    {
+    "cheese": "Cheese",
+    "english": "everything, cheese",
+    "wordclass": "noun"
+  },
   {
     "cheese": "Chelsea",
     "english": "-",
