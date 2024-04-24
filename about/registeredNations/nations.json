@@ -520,6 +520,11 @@
         "borders": "new zealand"
     },
     {
+        "country": "korea",
+        "notes": "the goddard does not respect the monarchal occupation of the north of korea by the kim family",
+        "borders": "russia,china"
+    },
+    {
         "country": "kuwait",
         "notes": "no notes",
         "borders": "iraq,saudi arabia"
@@ -532,12 +537,12 @@
     {
         "country": "laos",
         "notes": "no notes",
-        "borders": ""
+        "borders": "vietnam,myanmar,thailand,china,cambodia"
     },
     {
         "country": "latvia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "estonia,lithuania,belarus,russia"
     },
     {
         "country": "lazonesia",
@@ -547,17 +552,17 @@
     {
         "country": "lebanon",
         "notes": "no notes",
-        "borders": ""
+        "borders": "syria,israel,palestine"
     },
     {
         "country": "lesotho",
         "notes": "no notes",
-        "borders": ""
+        "borders": "south africa"
     },
     {
         "country": "liberia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "ivory coast, sierra lione,guinea"
     },
     {
         "country": "libertas",
@@ -567,30 +572,135 @@
     {
         "country": "libya",
         "notes": "no notes",
-        "borders": ""
+        "borders": "niger,egypt,niger,chad,sudan,tunisia"
     },
     {
         "country": "liechtenstein",
-        "notes": "no notes",
-        "borders": ""
+        "notes": "they had -1 losses in a war, a technique we hope to figure out.",
+        "borders": "austria,switzerland"
     },
     {
         "country": "lithuania",
         "notes": "no notes",
-        "borders": ""
+        "borders": "latvia,poland,belarus,russia"
     },
     {
         "country": "luxembourg",
         "notes": "no notes",
-        "borders": ""
+        "borders": "belgium, germany"
     },
     {
         "country": "madagascar",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "malawi",
+        "notes": "no notes",
+        "borders": "zambia,tanzania,mozambique"
+    },
+    {
+        "country": "malaysia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "maldives",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "mali",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "malta",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "marshall islands",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "mauritania",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "mauritius",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "mexico",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "micronesia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "moldova",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "monaco",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "mozambique",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "myanmar",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "namibia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "nauru",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "nepal",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "netherlands",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "new zealand",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "nicaragua",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "niger",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "nigeria",
         "notes": "no notes",
         "borders": ""
     },
