@@ -210,6 +210,11 @@
         "notes": "we do not support the corporate annexation of lostcow.",
         "borders": "USA"
     },
+    {
+        "country": "colombia",
+        "notes": "no notes",
+        "borders": "panama,ecuador,venezuela,peru,brazil"
+    },
       {
         "country": "costa rica",
         "notes": "no notes",
@@ -620,6 +625,11 @@
         "borders": ""
     },
     {
+        "country": "marhaenia",
+        "notes": "no notes",
+        "borders": "indonesia"
+    },
+    {
         "country": "marshall islands",
         "notes": "no notes",
         "borders": ""
@@ -653,6 +663,16 @@
         "country": "monaco",
         "notes": "no notes",
         "borders": ""
+    },
+    {
+        "country": "montimont",
+        "notes": "no notes",
+        "borders": "no borders"
+    },
+    {
+        "country": "monzen",
+        "notes": "no notes",
+        "borders": "philipines"
     },
     {
         "country": "mozambique",
@@ -701,6 +721,137 @@
     },
     {
         "country": "nigeria",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "nixland",
+        "notes": "no notes",
+        "borders": "no borders"
+    },
+    {
+        "country": "north macedonia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "north northenden",
+        "notes": "this nation has now been renamed albia",
+        "borders": "uk"
+    },
+    {
+        "country": "norway",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "oman",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "pacificonia",
+        "notes": "no notes",
+        "borders": "USA"
+    },
+    
+    {
+        "country": "pakistan",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "palau",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "palestine",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "paloma",
+        "notes": "the goddard does not recognise many annexations of land by paloma. it only trusts in their antartican and american land.",
+        "borders": "usa"
+    },
+    {
+        "country": "panama",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "papua new guinea",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "paraguay",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "people's union of chavalier socialists",
+        "notes": "no notes",
+        "borders": "USA"
+    },
+    {
+        "country": "peru",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "philipines",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "piedmont",
+        "notes": "no notes",
+        "borders": "USA"
+    },
+    {
+        "country": "poland",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "poleglass",
+        "notes": "no notes",
+        "borders": "UK"
+    },
+    {
+        "country": "portugal",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "princian commonwealth",
+        "notes": "no notes",
+        "borders": "UK"
+    },
+    {
+        "country": "qatar",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "romania",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "russia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "rwanda",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "saint kitts and nevis",
         "notes": "no notes",
         "borders": ""
     },
