@@ -607,22 +607,22 @@
     {
         "country": "malaysia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "singapore, indonesia,brunei"
     },
     {
         "country": "maldives",
         "notes": "no notes",
-        "borders": ""
+        "borders": "islands"
     },
     {
         "country": "mali",
         "notes": "no notes",
-        "borders": ""
+        "borders": "senegal, ivory coast,guinea,burkina faso,niger,algeria,mauritania"
     },
     {
         "country": "malta",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "marhaenia",
@@ -637,32 +637,32 @@
     {
         "country": "mauritania",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "mauritius",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "mexico",
         "notes": "no notes",
-        "borders": ""
+        "borders": "belize,guatemala,USA"
     },
     {
         "country": "micronesia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "moldova",
         "notes": "no notes",
-        "borders": ""
+        "borders": "romania,ukraine"
     },
     {
         "country": "monaco",
         "notes": "no notes",
-        "borders": ""
+        "borders": "no borders"
     },
     {
         "country": "montimont",
@@ -677,52 +677,52 @@
     {
         "country": "mozambique",
         "notes": "no notes",
-        "borders": ""
+        "borders": "tanzania,malawi,south africa,eswatini,zambia,zimbabwe"
     },
     {
         "country": "myanmar",
         "notes": "no notes",
-        "borders": ""
+        "borders": "bangladesh,india,china,laos,thailand"
     },
     {
         "country": "namibia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "angola,botswana,south africa"
     },
     {
         "country": "nauru",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "nepal",
         "notes": "no notes",
-        "borders": ""
+        "borders": "india,china"
     },
     {
         "country": "netherlands",
         "notes": "no notes",
-        "borders": ""
+        "borders": "belgium,west germany"
     },
     {
         "country": "new zealand",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "nicaragua",
         "notes": "no notes",
-        "borders": ""
+        "borders": "honduras,costa rica"
     },
     {
         "country": "niger",
         "notes": "no notes",
-        "borders": ""
+        "borders": "libya,mali,benin,algeria,chad,burkina faso,nigeria"
     },
     {
         "country": "nigeria",
         "notes": "no notes",
-        "borders": ""
+        "borders": "niger,benin,chad,cameroon"
     },
     {
         "country": "nixland",
@@ -732,7 +732,7 @@
     {
         "country": "north macedonia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "serbia,bulgaria,serbia,kosovo,greece"
     },
     {
         "country": "north northenden",
@@ -742,12 +742,12 @@
     {
         "country": "norway",
         "notes": "no notes",
-        "borders": ""
+        "borders": "sweden,finland,russia"
     },
     {
         "country": "oman",
         "notes": "no notes",
-        "borders": ""
+        "borders": "yemen,saudi arabia,UAE"
     },
     {
         "country": "pacificonia",
@@ -758,17 +758,17 @@
     {
         "country": "pakistan",
         "notes": "no notes",
-        "borders": ""
+        "borders": "iran,india,afganistan"
     },
     {
         "country": "palau",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "palestine",
         "notes": "no notes",
-        "borders": ""
+        "borders": "israel,jordan,egypt"
     },
     {
         "country": "paloma",
@@ -778,17 +778,17 @@
     {
         "country": "panama",
         "notes": "no notes",
-        "borders": ""
+        "borders": "costa rica, colombia"
     },
     {
         "country": "papua new guinea",
         "notes": "no notes",
-        "borders": ""
+        "borders": "indonesia"
     },
     {
         "country": "paraguay",
         "notes": "no notes",
-        "borders": ""
+        "borders": "argentina,brazil,argentina"
     },
     {
         "country": "people's union of chavalier socialists",
@@ -798,7 +798,7 @@
     {
         "country": "peru",
         "notes": "no notes",
-        "borders": ""
+        "borders": "ecuador,colombia,brazil,bolivia,chile"
     },
     {
         "country": "philipines",
