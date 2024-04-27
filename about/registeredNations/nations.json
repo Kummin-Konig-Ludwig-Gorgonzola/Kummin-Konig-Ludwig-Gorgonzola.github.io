@@ -238,7 +238,7 @@
       {
         "country": "czechia",
         "notes": "no notes",
-        "borders": "austria,slovakia,germany,poland"
+        "borders": "austria,slovakia,germany,poland,sendersia"
     },
       {
         "country": "democratic congo",
@@ -406,7 +406,7 @@
     {
         "country": "empire of him",
         "notes": "the region contains many nations, and borders aroung him are mostly changing constantly.",
-        "borders": "new zealand"
+        "borders": "new zealand,krongle"
     },
     {
         "country": "holy see",
@@ -528,6 +528,11 @@
         "country": "korea",
         "notes": "the goddard does not respect the monarchal occupation of the north of korea by the kim family",
         "borders": "russia,china"
+    },
+    {
+        "country": "kingdom of krongle",
+        "notes": "the KOK is even worse than switzerland",
+        "borders": "new zealand, empire of him"
     },
     {
         "country": "kuwait",
@@ -740,6 +745,11 @@
         "borders": "uk"
     },
     {
+        "country": "north sudan",
+        "notes": "no notes",
+        "borders": "egypt,eritrea,ethiopia,south sudan,CAR,chad,libya"
+    },
+    {
         "country": "norway",
         "notes": "no notes",
         "borders": "sweden,finland,russia"
@@ -803,7 +813,7 @@
     {
         "country": "philipines",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "piedmont",
@@ -813,7 +823,7 @@
     {
         "country": "poland",
         "notes": "no notes",
-        "borders": ""
+        "borders": "germany,russia,austria,slovakia,belarus,ukraine,lithuania"
     },
     {
         "country": "poleglass",
@@ -823,7 +833,7 @@
     {
         "country": "portugal",
         "notes": "no notes",
-        "borders": ""
+        "borders": "spain"
     },
     {
         "country": "princian commonwealth",
@@ -833,30 +843,320 @@
     {
         "country": "qatar",
         "notes": "no notes",
-        "borders": ""
+        "borders": "saudi arabia"
     },
     {
         "country": "romania",
         "notes": "no notes",
-        "borders": ""
+        "borders": "moldova,bulgaria,serbia,hungary,ukraine"
     },
     {
         "country": "russia",
-        "notes": "no notes",
-        "borders": ""
+        "notes": "the goddard does not recognise the unlawful annexation of ukraine by russia",
+        "borders": "georgia,azerbaijan,kazakhstan,china,mongolia,korea,finland, estonia,latvia,lithuania,poland, ukraine,belarus,norway"
     },
     {
         "country": "rwanda",
         "notes": "no notes",
-        "borders": ""
+        "borders": "uganda,democratic congo,burundi,tanzania"
     },
     {
         "country": "saint kitts and nevis",
+        "notes": "no notes",
+        "borders": "island"
+    },
+    {
+        "country": "saint lucia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "saint vincent and the grenadines",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "samoa",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "san merino",
+        "notes": "no notes",
+        "borders": ""
+    },
+{
+        "country": "sao tome and principe",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "saudi arabia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "secundomian federation FSSR",
+        "notes": "no notes",
+        "borders": "USA"
+    },
+    {
+        "country": "sendersia",
+        "notes": "no notes",
+        "borders": "czechia"
+    },
+    {
+        "country": "senegal",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "serbia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "seychelles",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "sheepland",
+        "notes": "the goddard is considering that the strange lack of borders might make this not a nation",
+        "borders": "no territory held yet"
+    },
+    {
+        "country": "sierra lione",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "singapore",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "slovakia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "slovenia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "solomon islands",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "somalia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "south africa",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "south sudan",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "spain",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "sri lanka",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "suriname",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "sweden",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "switzerland",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "syria",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "tajikistan",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "tanzania",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "thailand",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "timor-leste",
         "notes": "no notes",
         "borders": ""
     },
     {
         "country": "",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "togo",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "tonga",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "tregoelo",
+        "notes": "no notes",
+        "borders": "no borders"
+    },
+    {
+        "country": "trinidad and tobagp",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "tunisia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "turavia",
+        "notes": "no notes",
+        "borders": "germany"
+    },
+    {
+        "country": "turkiye",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "turkmenistan",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "tuvalu",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "uganda",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "ukraine",
+        "notes": "the goddard does not respect the russian annexation of ukraine",
+        "borders": ""
+    },
+    {
+        "country": "UAE",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "UK",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "USA",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "Uraguay",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "Uzbekistan",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "vanuatu",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "venezuela",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "vietnam",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "ward empire",
+        "notes": "no notes",
+        "borders": "new zealand, GAR, CDG, arstotzkhan union"
+    },
+    {
+        "country": "wegmat",
+        "notes": "no notes",
+        "borders": "USA, chavelier republic"
+    },
+    {
+        "country": "wendatia",
+        "notes": "no notes",
+        "borders": "USA"
+    },
+    {
+        "country": "west river confederation",
+        "notes": "benjamin pickles.",
+        "borders": "canada"
+    },
+    {
+        "country": "west unity",
+        "notes": "no notes",
+        "borders": "USA"
+    },
+    {
+        "country": "yanlyand",
+        "notes": "no notes",
+        "borders": "USA"
+    },
+    {
+        "country": "yemen",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "zambia",
+        "notes": "no notes",
+        "borders": ""
+    },
+    {
+        "country": "zimbabwe",
         "notes": "no notes",
         "borders": ""
     }
