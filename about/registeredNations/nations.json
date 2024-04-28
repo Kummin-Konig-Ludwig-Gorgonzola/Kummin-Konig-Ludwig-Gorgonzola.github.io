@@ -23,8 +23,8 @@
     
     {
         "country": "Andorra",
-        "notes": "this tiny state is registered by the goddardian government separate of france or spain",
-        "borders": "france,spain"
+        "notes": "this tiny state is registered by the goddardian government separate of spain",
+        "borders": "spain"
     },
     {
         "country": "Angola",
@@ -1074,7 +1074,7 @@
     {
         "country": "UK",
         "notes": "no notes",
-        "borders": "ireland,spain,goddardia,north northenden,poleglass,princian commonwealth,the goddard"
+        "borders": "ireland,spain,north northenden,poleglass,princian commonwealth,the goddard"
     },
     {
         "country": "USA",
