@@ -75,7 +75,7 @@
     },  {
         "country": "austria",
         "notes": "no notes",
-        "borders": "hungary,czechia, slovakia,slovenia,germany,switzerland,italy,bartonia, hugoland"
+        "borders": "hungary,czechia, slovakia,slovenia,west germany,switzerland,italy,bartonia, hugoland"
     },  {
         "country": "bahamas",
         "notes": "no notes",
@@ -205,11 +205,7 @@
         "notes": "the goddard does not respect the meritocratic occupation of china by 'people'",
         "borders": "korea,mongolia,russia,kazakhstan,kyrgystan,nepal,bhutan,vietnam,laos,india,pakistan,tajikistan"
     },
-    {
-        "country": "chavelier union",
-        "notes": "we do not support the corporate annexation of lostcow.",
-        "borders": "USA"
-    },
+    
     {
         "country": "colombia",
         "notes": "no notes",
@@ -238,7 +234,7 @@
       {
         "country": "czechia",
         "notes": "no notes",
-        "borders": "austria,slovakia,germany,poland,sendersia"
+        "borders": "austria,slovakia,west germany,poland,sendersia"
     },
       {
         "country": "democratic congo",
@@ -248,7 +244,7 @@
       {
         "country": "Denmark",
         "notes": "no notes",
-        "borders": "germany,canada"
+        "borders": "west germany,canada"
     },
       {
         "country": "Djibouti",
@@ -346,7 +342,7 @@
     {
         "country": "west germany",
         "notes": "no notes",
-        "borders": "austria,czechia,poland,luxembourg,denmark,netherlands,switzerland,belgium"
+        "borders": "austria,czechia,poland,luxembourg,denmark,netherlands,switzerland,belgium,ankai,turavia"
     },
     {
         "country": "east germany",
@@ -597,7 +593,7 @@
     {
         "country": "luxembourg",
         "notes": "no notes",
-        "borders": "belgium, germany"
+        "borders": "belgium, west germany"
     },
     {
         "country": "madagascar",
@@ -712,7 +708,7 @@
     {
         "country": "new zealand",
         "notes": "no notes",
-        "borders": "island"
+        "borders": "arstotzkhan union,empire of him,kiwistan,CDG,GAR,krongle,ward empire"
     },
     {
         "country": "nicaragua",
@@ -823,7 +819,7 @@
     {
         "country": "poland",
         "notes": "no notes",
-        "borders": "germany,russia,austria,slovakia,belarus,ukraine,lithuania"
+        "borders": "west germany,russia,austria,slovakia,belarus,ukraine,lithuania"
     },
     {
         "country": "poleglass",
@@ -868,37 +864,37 @@
     {
         "country": "saint lucia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "saint vincent and the grenadines",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "samoa",
-        "notes": "no notes",
-        "borders": ""
+        "notes": "the goddard does not respect the unlawful annexation of samoan islands by the USA",
+        "borders": "island"
     },
     {
-        "country": "san merino",
+        "country": "san marino",
         "notes": "no notes",
-        "borders": ""
+        "borders": "italy"
     },
 {
         "country": "sao tome and principe",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "saudi arabia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "jordan,iraq,kuwait,UAE,oman,yemen"
     },
     {
         "country": "secundomian federation FSSR",
         "notes": "no notes",
-        "borders": "USA"
+        "borders": 
     },
     {
         "country": "sendersia",
@@ -908,17 +904,17 @@
     {
         "country": "senegal",
         "notes": "no notes",
-        "borders": ""
+        "borders": "the gambia, guinea-bissau,guinea,mali,mauritania"
     },
     {
         "country": "serbia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "montenegro,kosovo,north macedonia,romania,bulgaria,hungary,croatia,bosnia and herzegovina"
     },
     {
         "country": "seychelles",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "sheepland",
@@ -928,107 +924,102 @@
     {
         "country": "sierra lione",
         "notes": "no notes",
-        "borders": ""
+        "borders": "guinea,liberia"
     },
     {
         "country": "singapore",
-        "notes": "no notes",
-        "borders": ""
+        "notes": "the border is on a bridge",
+        "borders": "malaysia"
     },
     {
         "country": "slovakia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "czechia,austria,hungary,ukraine,poland"
     },
     {
         "country": "slovenia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "italy,hungary,austria,croatia"
     },
     {
         "country": "solomon islands",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "somalia",
-        "notes": "no notes",
-        "borders": ""
+        "notes": "pirates",
+        "borders": "kenya,ethiopia,djibouti"
     },
     {
         "country": "south africa",
         "notes": "no notes",
-        "borders": ""
+        "borders": "namibia,botswana,zimbabwe,mozambique"
     },
     {
         "country": "south sudan",
         "notes": "no notes",
-        "borders": ""
+        "borders": "CAR,chad,north sudan,ethiopia,kenya,uganda, DRC"
     },
     {
         "country": "spain",
         "notes": "no notes",
-        "borders": ""
+        "borders": "portugal, andorra,UK"
     },
     {
         "country": "sri lanka",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "suriname",
         "notes": "no notes",
-        "borders": ""
+        "borders": "brazil,guyana"
     },
     {
         "country": "sweden",
-        "notes": "no notes",
-        "borders": ""
+        "notes": "danish bprder on bridge",
+        "borders": "norway,finland,denmark"
     },
     {
         "country": "switzerland",
         "notes": "no notes",
-        "borders": ""
+        "borders": "liechtenstein,austria,italy,west germany"
     },
     {
         "country": "syria",
         "notes": "no notes",
-        "borders": ""
+        "borders": "lebanon,israel,turkiye,iraq,jordan"
     },
     {
         "country": "tajikistan",
         "notes": "no notes",
-        "borders": ""
+        "borders": "uzbekistan,kyrgystan,china,afganistan"
     },
     {
         "country": "tanzania",
         "notes": "no notes",
-        "borders": ""
+        "borders": "kenya,rwanda,burundi,uganda,DRC,zambia,malawi,mozambique"
     },
     {
         "country": "thailand",
         "notes": "no notes",
-        "borders": ""
+        "borders": "myanmar,laos,malaysia,cambodia"
     },
     {
         "country": "timor-leste",
         "notes": "no notes",
-        "borders": ""
-    },
-    {
-        "country": "",
-        "notes": "no notes",
-        "borders": ""
+        "borders": "indonesia"
     },
     {
         "country": "togo",
         "notes": "no notes",
-        "borders": ""
+        "borders": "benin,burkina faso,ghana"
     },
     {
         "country": "tonga",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "tregoelo",
@@ -1036,84 +1027,84 @@
         "borders": "no borders"
     },
     {
-        "country": "trinidad and tobagp",
+        "country": "trinidad and tobago",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "tunisia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "algeria,libya"
     },
     {
         "country": "turavia",
         "notes": "no notes",
-        "borders": "germany"
+        "borders": "west germany"
     },
     {
         "country": "turkiye",
         "notes": "no notes",
-        "borders": ""
+        "borders": "georgia,armenia,greece,bulgaria,syria,iraq,iran"
     },
     {
         "country": "turkmenistan",
         "notes": "no notes",
-        "borders": ""
+        "borders": "kazakhstan,uzbekistan,afganistan,iran"
     },
     {
         "country": "tuvalu",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "uganda",
         "notes": "no notes",
-        "borders": ""
+        "borders": "south sudan,DRC,tanzania,kenya"
     },
     {
         "country": "ukraine",
         "notes": "the goddard does not respect the russian annexation of ukraine",
-        "borders": ""
+        "borders": "kamenrus,moldova,romania,hungary,hungary,slovakia,poland,belarus,russia"
     },
     {
         "country": "UAE",
         "notes": "no notes",
-        "borders": ""
+        "borders": "oman,saudi arabia"
     },
     {
         "country": "UK",
         "notes": "no notes",
-        "borders": ""
+        "borders": "ireland,spain,goddardia,north northenden,poleglass,princian commonwealth"
     },
     {
         "country": "USA",
         "notes": "no notes",
-        "borders": ""
+        "borders": "canada,mexico,yanlyand,wegmat,wendatia,west unity,FSSR,piedmont,chavelier socialists,adamburg,arazania,pacificicona,paloma,libertas,kaetania,jakwal,illunois"
     },
     {
         "country": "Uraguay",
         "notes": "no notes",
-        "borders": ""
+        "borders": "brazil,argentina"
     },
     {
         "country": "Uzbekistan",
         "notes": "no notes",
-        "borders": ""
+        "borders": "kazakhstan,kyrgystan,tjikistan,afganistan,turkmenistan"
     },
     {
         "country": "vanuatu",
         "notes": "no notes",
-        "borders": ""
+        "borders": "island"
     },
     {
         "country": "venezuela",
         "notes": "no notes",
-        "borders": ""
+        "borders": "colombia,brazil,guyana"
     },
     {
         "country": "vietnam",
         "notes": "no notes",
-        "borders": ""
+        "borders": "laos,cambodia,china"
     },
     {
         "country": "ward empire",
@@ -1148,17 +1139,17 @@
     {
         "country": "yemen",
         "notes": "no notes",
-        "borders": ""
+        "borders": "saudi arabia,oman"
     },
     {
         "country": "zambia",
         "notes": "no notes",
-        "borders": ""
+        "borders": "angola,DRC,tanzania,malawi,mozambique,zimbabwe,namibia"
     },
     {
         "country": "zimbabwe",
         "notes": "no notes",
-        "borders": ""
+        "borders": "zambia,mozambique,south africa,botswana"
     }
   ]
     
