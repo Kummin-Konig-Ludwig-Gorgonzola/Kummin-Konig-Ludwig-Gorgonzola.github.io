@@ -1565,8 +1565,8 @@
   },
   {
     "cheese": "Citeaux",
-    "english": "-",
-    "wordclass": "-"
+    "english": "city/town/village",
+    "wordclass": "noun"
   },
   {
     "cheese": "Clonmore",
