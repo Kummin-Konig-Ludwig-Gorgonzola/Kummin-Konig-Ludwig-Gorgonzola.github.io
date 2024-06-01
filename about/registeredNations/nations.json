@@ -526,6 +526,11 @@
         "borders": "russia,china"
     },
     {
+        "country": "kosovo",
+        "notes": "kosovo is kosovo",
+        "borders": "albania,north macedonia,serbia,montenegro"
+    },
+    {
         "country": "kingdom of krongle",
         "notes": "the KOK is even worse than switzerland",
         "borders": "new zealand, empire of him"
@@ -669,6 +674,11 @@
         "country": "montimont",
         "notes": "no notes",
         "borders": "no borders"
+    },
+    {
+        "country": "montenegro",
+        "notes": "no notes",
+        "borders": "croatia,bosnia+herzegovina,serbia,kosovo,albania"
     },
     {
         "country": "monzen",
