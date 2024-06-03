@@ -127,7 +127,7 @@
     },
       {
         "country": "benjastan",
-        "notes": "the state finds it funny we hava a similar name of a capital city. pickleism is a neat ideology too.",
+        "notes": "the state finds it funny we hava a similar name of a capital city. pickleism is a neat ideology too. However, the goddard does not recognise claims to saturn.",
         "borders": "canada,USA"
     },
       {
@@ -143,7 +143,7 @@
       {
         "country": "Bosnia and Herzegovina",
         "notes": "no notes",
-        "borders": "serbia,croatia,montenegro"
+        "borders": rbia,croatia,montenegro"
     },
     {
         "country": "botswana",
@@ -328,7 +328,7 @@
     {
         "country": "gambia",
         "notes": "no notes",
-        "borders": "senegal"
+        "borders": negal"
     },{
         "country": "confederate democracy of gamers",
         "notes": "gaming time",
@@ -382,7 +382,7 @@
     {
         "country": "guinea",
         "notes": "no notes",
-        "borders": "senegal,liberia,guinea-bissau,ivory coast, mali,sierra lione"
+        "borders": negal,liberia,guinea-bissau,ivory coast, mali,sierra lione"
     },
     {
         "country": "guinea-bissau",
@@ -392,7 +392,7 @@
   {
         "country": "guyana",
         "notes": "no notes",
-        "borders": "seriname,venesuela,brazil"
+        "borders": riname,venesuela,brazil"
     },
     {
         "country": "haiti",
@@ -623,7 +623,7 @@
     {
         "country": "mali",
         "notes": "no notes",
-        "borders": "senegal, ivory coast,guinea,burkina faso,niger,algeria,mauritania"
+        "borders": negal, ivory coast,guinea,burkina faso,niger,algeria,mauritania"
     },
     {
         "country": "malta",
@@ -743,7 +743,7 @@
     {
         "country": "north macedonia",
         "notes": "no notes",
-        "borders": "serbia,bulgaria,serbia,kosovo,greece"
+        "borders": rbia,bulgaria,serbia,kosovo,greece"
     },
     {
         "country": "north northenden",
@@ -900,6 +900,11 @@
         "country": "saudi arabia",
         "notes": "no notes",
         "borders": "jordan,iraq,kuwait,UAE,oman,yemen"
+    },
+    {
+        "country": "sealand",
+        "notes": "the island here is artificial, and quite neat",
+        "borders": "island"
     },
     {
         "country": "secundomian federation FSSR",
