@@ -143,7 +143,7 @@
       {
         "country": "Bosnia and Herzegovina",
         "notes": "no notes",
-        "borders": rbia,croatia,montenegro"
+        "borders": "serbia,croatia,montenegro"
     },
     {
         "country": "botswana",
