@@ -108,7 +108,7 @@
       {
         "country": "belarus",
         "notes": "the nation of belarus is barely even a nation, a russian puppet too busy licking the feet of vladamir putin.",
-        "borders": "latvia, lithuania,ukraine,poland,russia"
+        "borders": "latvia, lithuania,raine,poland,russia"
     },
       {
         "country": "belgium",
@@ -457,7 +457,7 @@
     {
         "country": "ireland",
         "notes": "no notes",
-        "borders": "UK,ballinfoyleburg"
+        "borders": ",ballinfoyleburg"
     },
     {
         "country": "israel",
@@ -497,7 +497,7 @@
     {
         "country": "kamenrus",
         "notes": "russian annexation attempts on kamenrussian land is viewed by the goddard as unjust",
-        "borders": "ukraine"
+        "borders": "raine"
     },
     {
         "country": "kazahkstan",
@@ -663,7 +663,12 @@
     {
         "country": "moldova",
         "notes": "no notes",
-        "borders": "romania,ukraine"
+        "borders": "romania,raine"
+    },
+    {
+        "country": "monkey de country",
+        "notes": "The treaty of the Roundatia gulag has allowed us great peace",
+        "borders": "UK, the goddard"
     },
     {
         "country": "monaco",
@@ -748,7 +753,7 @@
     {
         "country": "north northenden",
         "notes": "this nation has now been renamed albia",
-        "borders": "uk"
+        "borders": ""
     },
     {
         "country": "north sudan",
@@ -829,12 +834,12 @@
     {
         "country": "poland",
         "notes": "no notes",
-        "borders": "west germany,russia,austria,slovakia,belarus,ukraine,lithuania"
+        "borders": "west germany,russia,austria,slovakia,belarus,raine,lithuania"
     },
     {
         "country": "poleglass",
         "notes": "no notes",
-        "borders": "UK"
+        "borders": ""
     },
     {
         "country": "portugal",
@@ -844,7 +849,7 @@
     {
         "country": "princian commonwealth",
         "notes": "no notes",
-        "borders": "UK"
+        "borders": ""
     },
     {
         "country": "qatar",
@@ -854,12 +859,12 @@
     {
         "country": "romania",
         "notes": "no notes",
-        "borders": "moldova,bulgaria,serbia,hungary,ukraine"
+        "borders": "moldova,bulgaria,serbia,hungary,raine"
     },
     {
         "country": "russia",
-        "notes": "the goddard does not recognise the unlawful annexation of ukraine by russia",
-        "borders": "georgia,azerbaijan,kazakhstan,china,mongolia,korea,finland, estonia,latvia,lithuania,poland, ukraine,belarus,norway"
+        "notes": "the goddard does not recognise the unlawful annexation of raine by russia",
+        "borders": "georgia,azerbaijan,kazakhstan,china,mongolia,korea,finland, estonia,latvia,lithuania,poland, raine,belarus,norway"
     },
     {
         "country": "rwanda",
@@ -1089,7 +1094,7 @@
     {
         "country": "UK",
         "notes": "no notes",
-        "borders": "ireland,spain,north northenden,poleglass,princian commonwealth,the goddard"
+        "borders": "ireland,spain,north northenden,poleglass,princian comnwealth,the goddard, monkey de country"
     },
     {
         "country": "USA",
