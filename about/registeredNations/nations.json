@@ -748,7 +748,7 @@
     {
         "country": "north macedonia",
         "notes": "no notes",
-        "borders": rbia,bulgaria,serbia,kosovo,greece"
+        "borders": "serbia,bulgaria,kosovo,greece"
     },
     {
         "country": "north northenden",
