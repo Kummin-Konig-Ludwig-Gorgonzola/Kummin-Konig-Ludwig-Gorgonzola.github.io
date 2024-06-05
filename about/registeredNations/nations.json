@@ -382,7 +382,7 @@
     {
         "country": "guinea",
         "notes": "no notes",
-        "borders": negal,liberia,guinea-bissau,ivory coast, mali,sierra lione"
+        "borders": "senegal,liberia,guinea-bissau,ivory coast, mali,sierra lione"
     },
     {
         "country": "guinea-bissau",
@@ -623,7 +623,7 @@
     {
         "country": "mali",
         "notes": "no notes",
-        "borders": negal, ivory coast,guinea,burkina faso,niger,algeria,mauritania"
+        "borders": "senegal, ivory coast,guinea,burkina faso,niger,algeria,mauritania"
     },
     {
         "country": "malta",
