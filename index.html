@@ -19,21 +19,9 @@
         <img src="/assets/flag.png" height="35px" class="pe-3">
         <span class="fs-4 text-white">Kummin König Ludwig Gorgonzola ☭</span>
       </a>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
       
-      <script>             
-       $.get('https://www.html5rocks.com/en/tutorials/cors/', function(response) {                    
-        var query=(response.search(/Using CORS - HTML5 Rocks/i));
-        if(query>-1){
-          console.log("https://www.html5rocks.com/en/tutorials/cors/")
-        }
-        else{
-          console.log("not found")
-        }
-      });
-      </script>
       <form class="col-12 col-lg-auto mb-3 mb-lg-0" role="search">
-        <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
+        <input type="search" class="form-control searchbar" placeholder="Search..." aria-label="Search">
       </form>
     </div>
   </header>
