@@ -1,3 +1,4 @@
-function search {
-  location.href = ("/"+searchBar.textContent);
-}
+
+ $(some-input).on("search", function() { 
+   location.href = ("/"+searchBar.textContent);
+ });
