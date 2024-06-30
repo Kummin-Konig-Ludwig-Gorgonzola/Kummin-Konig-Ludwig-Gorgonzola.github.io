@@ -1,4 +1,4 @@
 
- (searchBar).on("search", function() { 
+ $(searchBar).on("search", function() { 
    location.href = ("/"+searchBar.textContent);
  });
