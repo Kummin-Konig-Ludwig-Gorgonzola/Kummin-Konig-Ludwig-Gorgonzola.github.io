@@ -1,3 +1,3 @@
-if btnpressed {
-  location.href = ("/"+searchBar.textContent)
+function search {
+  location.href = ("/"+searchBar.textContent);
 }
