@@ -1115,8 +1115,8 @@
   },
   {
     "cheese": "Cabot",
-    "english": "-",
-    "wordclass": "-"
+    "english": "truth,true",
+    "wordclass": "n/adj"
   },
   {
     "cheese": "Cabrales",
@@ -2905,8 +2905,8 @@
   },
   {
     "cheese": "Livarot",
-    "english": "-",
-    "wordclass": "-"
+    "english": "to live in, home",
+    "wordclass": "vb/n"
   },
   {
     "cheese": "Llanboidy",
