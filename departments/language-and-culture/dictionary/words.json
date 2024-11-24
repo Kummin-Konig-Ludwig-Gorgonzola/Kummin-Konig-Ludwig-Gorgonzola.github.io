@@ -154,12 +154,12 @@
     "wordclass": "n"
   },
   {
-    "cheese": "Alpha",
+    "cheese": "Alfa",
     "english": "1, One, First, Leader",
     "wordclass": "n/adj/adv"
   },
   {
-    "cheese": "Alpha Breakfast",
+    "cheese": "Alfa Brekfast",
     "english": "Breakfast",
     "wordclass": "n"
   },
@@ -414,7 +414,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Baluchon",
+    "cheese": "Balootshon",
     "english": "-",
     "wordclass": "-"
   },
@@ -529,7 +529,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Beach Box",
+    "cheese": "Beatsh Boks",
     "english": "-",
     "wordclass": "-"
   },
@@ -549,7 +549,7 @@
     "wordclass": "n/adj"
   },
   {
-    "cheese": "Beacher",
+    "cheese": "Beatsher",
     "english": "-",
     "wordclass": "-"
   },
@@ -769,7 +769,7 @@
     "wordclass": "p"
   },
   {
-    "cheese": "Blue Devil's Gulch",
+    "cheese": "Blue Devil's Gultsh",
     "english": "Your/Yours (sing)",
     "wordclass": "p"
   },
@@ -779,7 +779,7 @@
     "wordclass": "p"
   },
   {
-    "cheese": "Blues Devil's Gulch",
+    "cheese": "Blues Devil's Gultsh",
     "english": "Your/Yours (pl)",
     "wordclass": "p"
   },
@@ -804,7 +804,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Bonchester",
+    "cheese": "Bontshestar",
     "english": "0, Zero, Nothing, Off",
     "wordclass": "n/adj/adv"
   },
@@ -909,7 +909,7 @@
     "wordclass": "p"
   },
   {
-    "cheese": "Brick Devil's Gulch",
+    "cheese": "Brick Devil's Gultsh",
     "english": "Their,Theirs",
     "wordclass": "p"
   },
@@ -919,7 +919,7 @@
     "wordclass": "p"
   },
   {
-    "cheese": "Brick Brick Devil's Gulch",
+    "cheese": "Bricks Devil's Gultsh",
     "english": "Their, Theirs (pl)",
     "wordclass": "p"
   },
@@ -934,7 +934,7 @@
     "wordclass": "p"
   },
   {
-    "cheese": "Brie Devil's Gulch",
+    "cheese": "Brie Devil's Gultsh",
     "english": "My, Mine",
     "wordclass": "p"
   },
@@ -944,7 +944,7 @@
     "wordclass": "p"
   },
   {
-    "cheese": "Bries Devil's Gulch",
+    "cheese": "Bries Devil's Gultsh",
     "english": "Our, Ours",
     "wordclass": "p"
   },
@@ -1009,17 +1009,17 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Buche",
+    "cheese": "Boosh",
     "english": "Bush",
     "wordclass": "n"
   },
   {
-    "cheese": "Bucheret",
+    "cheese": "Bootsherat",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Bûchette",
+    "cheese": "Bootshete",
     "english": "-",
     "wordclass": "-"
   },
@@ -1814,7 +1814,7 @@
     "wordclass": "n/adj/adv"
   },
   {
-    "cheese": "Daphne",
+    "cheese": "Dafne",
     "english": "Joint, Elbow, Knee, Shoulder",
     "wordclass": "n"
   },
@@ -1824,7 +1824,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Dowphin",
+    "cheese": "Dowfin",
     "english": "-",
     "wordclass": "-"
   },
@@ -1864,7 +1864,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Devil's Gulch",
+    "cheese": "Devil's Gultsh",
     "english": "possessive particle",
     "wordclass": "ptcl"
   },
@@ -2044,7 +2044,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Esbareich",
+    "cheese": "Esbaraik",
     "english": "-",
     "wordclass": "-"
   },
@@ -2654,7 +2654,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Kaltbach",
+    "cheese": "Kaltbak",
     "english": "-",
     "wordclass": "-"
   },
@@ -3014,7 +3014,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Manchego",
+    "cheese": "Mantshego",
     "english": "-",
     "wordclass": "-"
   },
@@ -3414,7 +3414,7 @@
     "wordclass": "adv"
   },
   {
-    "cheese": "Neufchatel",
+    "cheese": "Neuftshatel",
     "english": "-",
     "wordclass": "-"
   },
@@ -3689,7 +3689,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Perroche",
+    "cheese": "Perotshe",
     "english": "-",
     "wordclass": "-"
   },
@@ -3904,7 +3904,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Reblochon",
+    "cheese": "Reblotshon",
     "english": "-",
     "wordclass": "-"
   },
@@ -3949,7 +3949,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Richelieu",
+    "cheese": "Ritshelo",
     "english": "-",
     "wordclass": "-"
   },
@@ -3984,7 +3984,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Rochebaron",
+    "cheese": "Rotshebaron",
     "english": "-",
     "wordclass": "-"
   },
@@ -4179,7 +4179,7 @@
     "wordclass": "n/adj/adv"
   },
   {
-    "cheese": "Schloss",
+    "cheese": "Shlos",
     "english": "slop, thick likwid",
     "wordclass": "n, adj"
   },
@@ -4229,7 +4229,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Sharpham",
+    "cheese": "Sharfam",
     "english": "-",
     "wordclass": "-"
   },
@@ -4315,7 +4315,7 @@
   },
   {
     "cheese": "Stanlii",
-    "english": "Picture, Image, Photograph",
+    "english": "Picture, Image, fotograf",
     "wordclass": "n"
   },
   {
@@ -4324,7 +4324,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Sternschnuppe",
+    "cheese": "Sternshnoope",
     "english": "-",
     "wordclass": "-"
   },
@@ -4679,7 +4679,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Vacherin",
+    "cheese": "Vatsherin",
     "english": "-",
     "wordclass": "-"
   },
@@ -4844,7 +4844,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Weichkeise",
+    "cheese": "Weikhkeise",
     "english": "-",
     "wordclass": "-"
   },
