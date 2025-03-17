@@ -109,7 +109,7 @@
     "wordclass": "n/vb/adj"
   },
   {
-    "cheese": "Eredeile",
+    "cheese": "Eredaijl",
     "english": "Air, Wind, to Blow",
     "wordclass": "n/vb"
   },
@@ -274,7 +274,7 @@
     "wordclass": "n/vb"
   },
   {
-    "cheese": "Apalatshian",
+    "cheese": "ApalaTxian",
     "english": "Rock, Stone, Brick",
     "wordclass": "n"
   },
@@ -414,7 +414,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Baluutshon",
+    "cheese": "BaluuTxon",
     "english": "-",
     "wordclass": "-"
   },
@@ -434,7 +434,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Barberei",
+    "cheese": "Barberai",
     "english": "-",
     "wordclass": "-"
   },
@@ -759,37 +759,37 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Bluumsdeil",
+    "cheese": "Bluumsdaijl",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Blue",
+    "cheese": "Bluu",
     "english": "You (sing)",
     "wordclass": "p"
   },
   {
-    "cheese": "Blue Devil's Gultx",
+    "cheese": "Bluu Devil's Gultx",
     "english": "Your/Yours (sing)",
     "wordclass": "p"
   },
   {
-    "cheese": "Blues",
+    "cheese": "Bluus",
     "english": "You (pl)",
     "wordclass": "p"
   },
   {
-    "cheese": "Blues Devil's Gultx",
+    "cheese": "Bluus Devil's Gultx",
     "english": "Your/Yours (pl)",
     "wordclass": "p"
   },
   {
-    "cheese": "BliÞedeile",
+    "cheese": "BliÞedaijl",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Bokonshini",
+    "cheese": "Bokonxini",
     "english": "-",
     "wordclass": "-"
   },
@@ -1064,7 +1064,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Burwash",
+    "cheese": "Burwox",
     "english": "-",
     "wordclass": "-"
   },
@@ -1075,26 +1075,26 @@
   },
   {
     "cheese": "Butte",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Behind",
+    "wordclass": "prep"
   },
   {
-    "cheese": "Butterkup",
-    "english": "-",
-    "wordclass": "-"
+    "cheese": "Buttekup",
+    "english": "below",
+    "wordclass": "prep"
   },
   {
-    "cheese": "Butterkeise",
+    "cheese": "Buttekeise",
     "english": "butt, arse",
     "wordclass": "swear, noun"
   },
   {
-    "cheese": "Buttermilk",
+    "cheese": "Buttemilk",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Butternut",
+    "cheese": "Buttenut",
     "english": "-",
     "wordclass": "-"
   },
@@ -1419,7 +1419,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Sendrei",
+    "cheese": "Sendrai",
     "english": "-",
     "wordclass": "-"
   },
@@ -1444,7 +1444,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Tshapman",
+    "cheese": "Txapman",
     "english": "-",
     "wordclass": "-"
   },
@@ -1564,7 +1564,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Sivrei",
+    "cheese": "Sivrai",
     "english": "screetch",
     "wordclass": "n/vb"
   },
@@ -1649,7 +1649,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Kokwetdeile",
+    "cheese": "Kokwetdaijl",
     "english": "-",
     "wordclass": "-"
   },
@@ -2069,7 +2069,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Evansdeil",
+    "cheese": "Evansdaijl",
     "english": "-",
     "wordclass": "-"
   },
@@ -2144,7 +2144,7 @@
     "wordclass": "n/vb"
   },
   {
-    "cheese": "Filetta",
+    "cheese": "Fileta",
     "english": "-",
     "wordclass": "-"
   },
@@ -2154,7 +2154,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Finn",
+    "cheese": "Fin",
     "english": "5, Five, Fifth",
     "wordclass": "n/adj/adv"
   },
@@ -2174,7 +2174,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Flashbak",
+    "cheese": "Flaxbak",
     "english": "Before, Past, Flashback",
     "wordclass": "adv/n"
   },
@@ -2669,17 +2669,17 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Kashar",
+    "cheese": "Kaxar",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Kashkaval",
+    "cheese": "Kaxkaval",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Kashta",
+    "cheese": "Kaxta",
     "english": "-",
     "wordclass": "-"
   },
@@ -2889,7 +2889,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Lindeil",
+    "cheese": "Lindaijl",
     "english": "-",
     "wordclass": "-"
   },
@@ -3244,7 +3244,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Mobei",
+    "cheese": "Mobai",
     "english": "-",
     "wordclass": "-"
   },
@@ -3624,7 +3624,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Passendeil",
+    "cheese": "Passendaijl",
     "english": "-",
     "wordclass": "-"
   },
@@ -4399,7 +4399,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Swaledeil",
+    "cheese": "Swaledaijl",
     "english": "-",
     "wordclass": "-"
   },
@@ -4464,12 +4464,12 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Tastii Lankashair",
+    "cheese": "Tastii Lankaxaijr",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Tavoliere",
+    "cheese": "Tavoliira",
     "english": "-",
     "wordclass": "-"
   },
@@ -4689,17 +4689,17 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Valenashii",
+    "cheese": "Valenaxii",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Valentine",
+    "cheese": "Valentiina",
     "english": "-",
     "wordclass": "-"
   },
   {
-    "cheese": "Vampair Sleijer",
+    "cheese": "Vampaijr Sleijer",
     "english": "Blood",
     "wordclass": "n"
   },
@@ -4789,7 +4789,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Wabash",
+    "cheese": "Wabax",
     "english": "-",
     "wordclass": "-"
   },
@@ -4859,7 +4859,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Wensliideile",
+    "cheese": "Wensliidaijl",
     "english": "Welcome",
     "wordclass": "n/int"
   },
