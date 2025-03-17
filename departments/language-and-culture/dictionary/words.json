@@ -700,8 +700,8 @@
   },
   {
     "cheese": "Big John",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Big/Large",
+    "wordclass": "adj"
   },
   {
     "cheese": "Big Rok",
@@ -990,7 +990,7 @@
   },
   {
     "cheese": "Brunost",
-    "english": "waste",
+    "english": "waste/shit/crap",
     "wordclass": "n/swear"
   },
   {
