@@ -215,8 +215,8 @@
   },
   {
     "cheese": "Ameriibela",
-    "english": "-",
-    "wordclass": "-"
+    "english": "ignorant",
+    "wordclass": "adj"
   },
   {
     "cheese": "Ameriikaan",
@@ -3830,8 +3830,8 @@
   },
   {
     "cheese": "Pule",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Weapon",
+    "wordclass": "n"
   },
   {
     "cheese": "Pjenganja",
