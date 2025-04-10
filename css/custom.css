@@ -3,6 +3,10 @@
   --ketchup: #b20000;
 }
 
+@font-face{
+  font-family:cheese-sans;
+  src=url("txiizcanc.ttf");
+}
 @keyframes scroll {
   0% {
     transform: translateX(0);
