@@ -1,97 +1,110 @@
 [{
-    "cheese": "Abbot's Gold",
+    "cheese": "abotsgóld",
     "english": "Precious, Valuable",
-    "wordclass": "adj"
+    "wordclass": "adj",
+    "ipa": "a.bɔt͡sʰˈgɔld"
   },
   {
-    "cheese": "Abertam",
+    "cheese": "ábertam",
     "english": "Mean, Offensive",
-    "wordclass": "adj"
+    "wordclass": "adj",
+    "ipa": "ˈa.be̞ɾ.tʰam"
   },
   {
-    "cheese": "Abondants",
+    "cheese": "abóndanz",
     "english": "Almost, Nearly", 
-    "wordclass": "adv"
+    "wordclass": "adv",
+    "ipa": "aˈbɔn.danz"
   },
   {
-    "cheese": "Akapela",
+    "cheese": "akapéla",
     "english": "Music, Sound",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "a.kʰaˈpʰe̞.la"
   },
   {
-    "cheese": "Akapeladam",
+    "cheese": "akapéladam",
     "english": "Instrument",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "a.kʰaˈpʰe̞.la.dam"
   },
   {
-    "cheese": "Akapelagiiano",
+    "cheese": "akapeladyáno",
     "english": "Digital Instrument, Speaker",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "a.kʰa.pʰe̞.laˈd͡ʒa.nɔ"
   },
   {
-    "cheese": "Akasiiato",
+    "cheese": "akaxjááto",
     "english": "Bug, Insect",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "a.kʰaʃˈjaː.tɔ"
   },
   {
-    "cheese": "Akawii",
+    "cheese": "ákawii",
     "english": "know/Knowledge",
-    "wordclass": "n/vb"
+    "wordclass": "n/vb",
+    "ipa": "ˈa.kʰa.wiː"
   },
   {
-    "cheese": "Akorn",
+    "cheese": "éjkoorn",
     "english": "Nut, Legume",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "ˈe̞ɪ̯.kʰoːɾn"
   },
   {
-    "cheese": "Adelost",
+    "cheese": "édelëst",
     "english": "New, Newly",
-    "wordclass": "adj/adv"
+    "wordclass": "adj/adv",
+    "ipa": "ˈe̞.de̞.ləsd"
   },
   {
-    "cheese": "ADL",
+    "cheese": "a-d-l",
     "english": "Forever, Infinite, Always",
-    "wordclass": "adj/adv"
+    "wordclass": "adj/adv",
+    "ipa": "ˈan.kʰɪn d͡ʒa.ləˈpʰiːn.jɔ luːkʰ"
   },
   {
-    "cheese": "ADL Brik",
+    "cheese": "a-d-l brik",
     "english": "Immortal",
-    "wordclass": "adj"
+    "wordclass": "adj",
+    "ipa": "ˈan.kʰɪn d͡ʒa.ləˈpʰiːn.jɔ luːkʰ brɪkʰ"
   },
   {
-    "cheese": "ADL Maild Txedar",
+    "cheese": "a-d-l májëld txédar",
     "english": "Infinite Luck",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "ˈan.kʰɪn d͡ʒa.ləˈpʰiːn.jɔ luːkʰ ˈma.jəld ˈt͡ʃʰe̞.daɾ"
   },
   {
-    "cheese": "Afideliize",
+    "cheese": "afidélis",
     "english": "Disease",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "a.fɪˈde̞.lɪs"
   },
   {
-    "cheese": "Afinur",
-    "english": "Trouble, Troublesome, Troubling",
-    "wordclass": "n/adj"
-  },
-  {
-    "cheese": "Afwega",
+    "cheese": "afwegalpíítuu",
     "english": "Rich",
-    "wordclass": "adj"
+    "wordclass": "adj",
+    "ipa": "af.we̞.galˈpʰi.tʰuː"
   },
   {
-    "cheese": "Adyed",
+    "cheese": "ejdyd",
     "english": "Not, No",
-    "wordclass": "adj/adv"
+    "wordclass": "adj/adv",
+    "ipa": "e̞jd͡ʒd"
   },
   {
-    "cheese": "Adyed Kamemburt",
+    "cheese": "ejdyd kámembert",
     "english": "No!",
-    "wordclass": "int"
+    "wordclass": "int",
+    "ipa": "e̞jd͡ʒd ˈkʰa.me̞m.be̞ɾt"
   },
   {
-    "cheese": "Adyed Hubardston",
+    "cheese": "ejdyd húbardstn",
     "english": "To dislike",
-    "wordclass": "vb"
+    "wordclass": "vb",
+    "ipa": "e̞jd͡ʒd ˈhʌ.baɾd.sdn̩"
   },
   {
     "cheese": "Agiiano",
