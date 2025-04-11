@@ -18,6 +18,7 @@
 }
 .cheesenese-writing{
   font-family:cheese-sans;
+  font-size:5px;
 }
 .bg-ketchup {
   background-color: var(--ketchup) !important;
