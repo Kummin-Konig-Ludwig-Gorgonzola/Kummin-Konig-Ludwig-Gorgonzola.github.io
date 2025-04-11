@@ -16,7 +16,9 @@
     transform: translateX(calc(-250px * 5))
   }
 }
-
+.cheesenese-writing{
+  font-family:cheese-sans;
+}
 .bg-ketchup {
   background-color: var(--ketchup) !important;
 }
