@@ -5,7 +5,7 @@
 
 @font-face{
   font-family:cheese-sans;
-  src=url(css/txiizcanc.ttf);
+  src=url(/css/txiizcanc.ttf);
 }
 @keyframes scroll {
   0% {
