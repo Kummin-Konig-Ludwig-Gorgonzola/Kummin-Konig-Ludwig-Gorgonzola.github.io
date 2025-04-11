@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   var xhr = new XMLHttpRequest();
   xhr.open("GET", "words.json", true);
-  xhr.onreadystatechange = function () 
+  xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
       var data = JSON.parse(xhr.responseText);
       var tableBody = document.getElementById("data-table").getElementsByTagName("tbody")[0];
