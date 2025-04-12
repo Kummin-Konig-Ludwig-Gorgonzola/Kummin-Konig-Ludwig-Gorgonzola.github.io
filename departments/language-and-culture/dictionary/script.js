@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         var row = tableBody.insertRow();
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
-        cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong><br><span class="font-size-small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
+        cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong><br><span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
         cell2.textContent = item.english;
       });
     }
