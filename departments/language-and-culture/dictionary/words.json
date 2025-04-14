@@ -732,7 +732,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Bishop Kennedii",
+    "cheese": "Bixop Kennedii",
     "english": "To kill",
     "wordclass": "vb"
   },
@@ -1807,7 +1807,7 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Deinish",
+    "cheese": "Deinix",
     "english": "Day, Light",
     "wordclass": "n"
   },
@@ -2542,12 +2542,12 @@
     "wordclass": "-"
   },
   {
-    "cheese": "Holii Kow",
+    "cheese": "Hëwlii Kow",
     "english": "Religion, Religious",
     "wordclass": "n/adj"
   },
   {
-    "cheese": "Holii Kow Stinking Bishop",
+    "cheese": "Hëwlii Kow Stinking Bixop",
     "english": "Priest etc (any job to do with religion)",
     "wordclass": "n"
   },
@@ -4192,8 +4192,8 @@
     "wordclass": "n/adj/adv"
   },
   {
-    "cheese": "Shlos",
-    "english": "slop, thick likwid",
+    "cheese": "Xlos",
+    "english": "slop, thick liquid",
     "wordclass": "n, adj"
   },
   {
@@ -4347,7 +4347,7 @@
     "wordclass": "vb"
   },
   {
-    "cheese": "Stinking Bishop",
+    "cheese": "Stinking Bixop",
     "english": "Person, Human",
     "wordclass": "n"
   },
