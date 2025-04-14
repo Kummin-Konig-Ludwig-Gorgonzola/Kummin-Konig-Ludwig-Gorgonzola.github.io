@@ -104,112 +104,115 @@
     "cheese": "ejdžd húbardstn",
     "english": "To dislike",
     "wordclass": "vb",
-    "ipa": "e̞jd͡ʒd ˈhʌ.baɾd.sdn̩"
+    "ipa": "e̞jd͡ʒd ˈhʌ.baɾd.stn̩"
   },
   {
-    "cheese": "Agiiano",
+    "cheese": "adžáno",
     "english": "Machine",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "aˈd͡ʒa.nɔ"
   },
   {
-    "cheese": "Ailsa",
+    "cheese": "éjlsa",
     "english": "Flat, Plane",
-    "wordclass": "adj/n"
+    "wordclass": "adj/n",
+    "ipa": "ˈe̞jl.sa"
   },
   {
-    "cheese": "Erag",
-    "english": "Poison, to Poison, Poisonous",
-    "wordclass": "n/vb/adj"
-  },
-  {
-    "cheese": "Eredaijl",
+    "cheese": "éérdejl",
     "english": "Air, Wind, to Blow",
-    "wordclass": "n/vb"
+    "wordclass": "n/vb",
+    "ipa": "ˈe̞ːɾ.de̞jl"
   },
   {
-    "cheese": "Aisii",
+    "cheese": "ájzii",
     "english": "8, eight, eighth",
-    "wordclass": "n/adj/adv"
+    "wordclass": "n/adj/adv",
+    "ipa": "ˈaj.zi"
   },
   {
-    "cheese": "Algauer",
+    "cheese": "álgojer",
     "english": "Respect",
-    "wordclass": "n/vb"
+    "wordclass": "n/vb",
+    "ipa": "ˈal.gɔ.je̞ɾ"
   },
   {
-    "cheese": "Alium",
+    "cheese": "áliijëm",
     "english": "All, Every",
-    "wordclass": "adj"
+    "wordclass": "adj",
+    "ipa": "ˈa.li.jəm"
   },
   {
-    "cheese": "Alium Deiniš",
+    "cheese": "áliijëm déjniš",
     "english": "Daily, Every day",
-    "wordclass": "adv"
+    "wordclass": "adv",
+    "ipa": "ˈa.li.jəm ˈde̞j.nɪʃ"
   },
   {
-    "cheese": "Alium Jeo",
+    "cheese": "áliijëm jeo",
     "english": "Yearly, Every year",
-    "wordclass": "adv"
+    "wordclass": "adv",
+    "ipa": "ˈa.li.jəm je̞.ɔ"
   },
   {
-    "cheese": "Almnas",
+    "cheese": "álmnez",
     "english": "Dangerous, Danger, Risk",
-    "wordclass": "adj/n"
+    "wordclass": "adj/n",
+    "ipa": "ˈalm.ne̞z"
   },
   {
-    "cheese": "Alpe",
-    "english": "After",
-    "wordclass": "prep"
-  },
-  {
-    "cheese": "Alpemotzarelisima",
-    "english": "Afternoon",
-    "wordclass": "n"
-  },
-  {
-    "cheese": "Alfa",
+    "cheese": "álfa",
     "english": "1, One, First, Leader",
-    "wordclass": "n/adj/adv"
+    "wordclass": "n/adj/adv",
+    "ipa": "ˈal.fa"
   },
   {
-    "cheese": "Alfa Brekfast",
+    "cheese": "álfa brékfast",
     "english": "Breakfast",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "ˈal.fa ˈbɾe̞k.fast"
   },
   {
-    "cheese": "Alpikriim",
+    "cheese": "alpiikrééme",
     "english": "Sweet",
-    "wordclass": "adj"
+    "wordclass": "adj",
+    "ipa": "al.pʰiˈkʰɾe̞ː.me̞"
   },
   {
-    "cheese": "Alpain",
+    "cheese": "alpajngóld",
     "english": "Cone, Cone-shaped",
-    "wordclass": "n/adj"
+    "wordclass": "n/adj",
+    "ipa": "al.pʰajnˈgɔld"
   },
   {
-    "cheese": "Bukstonalpain",
+    "cheese": "búkstonalpajngóld",
     "english": "mountain, mountainous",
-    "wordclass": "n/adj"
+    "wordclass": "n/adj",
+    "ipa": "ˈbʌk.stɔn.al.pʰajnˈgɔld"
   },
   {
-    "cheese": "Alpkeise",
+    "cheese": "álpkeeze",
     "english": "Solid",
-    "wordclass": "n/adj"
+    "wordclass": "n/adj",
+    "ipa": "ˈalpˌke̞ː.ze̞"
   },
   {
-    "cheese": "Alps Rebel",
+    "cheese": "álpsrebel",
     "english": "Savoury, Umami",
-    "wordclass": "adj"
+    "wordclass": "adj",
+    "ipa": "ˈalpsˌɾe̞.be̞l"
   },
   {
-    "cheese": "Alta",
+    "cheese": "álta",
     "english": "Tower",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "ˈal.tʰa"
   },
   {
-    "cheese": "Alverka",
+    "cheese": "alvérka",
     "english": "Mammal",
-    "wordclass": "n"
+    "wordclass": "n",
+    "ipa": "alˈve̞ɾ.kʰa"
   },
   {
     "cheese": "Amaaltii",
