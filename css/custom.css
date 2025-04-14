@@ -4,9 +4,10 @@
 }
 
 @font-face{
-  font-family:cheese-sans;
-  src:url(/css/geiometrika.ttf);
+  font-family: métronëwmz;
+  src:url(/css/métronëwmz.1c75e822800.ttf);
 }
+
 @keyframes scroll {
   0% {
     transform: translateX(0);
@@ -17,7 +18,7 @@
   }
 }
 .cheesenese-writing{
-  font-family:cheese-sans;
+  font-family: métronëwmz;
 }
 .bg-ketchup {
   background-color: var(--ketchup) !important;
