@@ -23,8 +23,9 @@ document.addEventListener("DOMContentLoaded", function () {
     function deaccent(input){
       for i in input.length{
         if input[i] =="é"{
-          input[i]=e
+          input[i]=e;
         }
+        return input;
       }
     }
     rows.forEach(function (row) {
