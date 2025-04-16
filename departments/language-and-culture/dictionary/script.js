@@ -20,12 +20,19 @@ document.addEventListener("DOMContentLoaded", function () {
   filterInput.addEventListener('input', function () {
     var filterValue = this.value.toLowerCase();
     var rows = document.querySelectorAll("#data-table tbody tr");
+    function deaccent(input){
+      for i in input.length{
+        if input[i] =="é"{
+          input[i]=e
+        }
+      }
+    }
     rows.forEach(function (row) {
       var cells = row.getElementsByTagName("td");
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = cells[i].textContent.toLowerCase();
-        if (cellText.indexOf(filterValue) > -1) {
+        if (cellText.indexOf(filterValue) > -1) or (cellText.indexOf(deaccent(filterValue)) > -1) {
           found = true;
           break;
         }
