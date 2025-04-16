@@ -25,9 +25,9 @@ document.addEventListener("DOMContentLoaded", function () {
       let output=""
       for (let i=0;i<plaintxt.length;i++){
         if (plaintxt[i] =="é"){
-            output[i]="e";
+            output=output+"e";
         }else{
-            output[i]=plaintxt[i];
+            output=output+plaintxt[i];
         }
       }
       return output;
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        if (cellText.indexOf(filterValue) > -1) {
+        if (cellText.indexOf(deaccent(filterValue)) > -1) {
           found = true;
           break;
         }
