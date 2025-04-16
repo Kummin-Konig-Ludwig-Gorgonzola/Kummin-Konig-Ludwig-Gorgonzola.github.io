@@ -20,18 +20,6 @@ document.addEventListener("DOMContentLoaded", function () {
   filterInput.addEventListener('input', function () {
     var filterValue = this.value.toLowerCase();
     var rows = document.querySelectorAll("#data-table tbody tr");
-    function deaccent(input){
-      for i in input.length{
-        if input[i] =="é"{
-          output[i]=e;
-        } else{
-          output[i]=input[i];
-        }
-        
-        return output;
-      }
-    var noaccent=deaccent(filterValue);
-    }
     rows.forEach(function (row) {
       var cells = row.getElementsByTagName("td");
       var found = false;
