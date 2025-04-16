@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = cells[i].textContent.toLowerCase();
-        if (cellText.indexOf(filterValue) > -1) or (cellText.indexOf(noaccent) > -1) {
+        if (cellText.indexOf(filterValue) > -1) {
           found = true;
           break;
         }
