@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
             output=output+"a";
         }else if (plaintxt[i] =="ó"){
             output=output+"o";
-        }else i (plaintxt[i] =="í"){
+        }else if (plaintxt[i] =="í"){
             output=output+"i";
         }else{
             output=output+plaintxt[i];
