@@ -2,19 +2,19 @@
     "cheese": "abotsgóld",
     "english": "Precious, Valuable",
     "wordclass": "adj",
-    "ipa": "a.bɔt͡sʰˈgɔld"
+    "ipa": "a.pɔt͡sʰˈgɔlt"
   },
   {
     "cheese": "ábertam",
     "english": "Mean, Offensive",
     "wordclass": "adj",
-    "ipa": "ˈa.be̞ɾ.tʰam"
+    "ipa": "ˈa.pe̞ɾ.tʰam"
   },
   {
     "cheese": "abóndanz",
     "english": "Almost, Nearly", 
     "wordclass": "adv",
-    "ipa": "aˈbɔn.danz"
+    "ipa": "aˈpɔn.tanz"
   },
   {
     "cheese": "akapéla",
@@ -26,7 +26,7 @@
     "cheese": "akapéladam",
     "english": "Instrument",
     "wordclass": "n",
-    "ipa": "a.kʰaˈpʰe̞.la.dam"
+    "ipa": "a.kʰaˈpʰe̞.la.tam"
   },
   {
     "cheese": "akapeladžáno",
@@ -38,7 +38,7 @@
     "cheese": "akašjááto",
     "english": "Bug, Insect",
     "wordclass": "n",
-    "ipa": "a.kʰaʃˈjaː.tɔ"
+    "ipa": "a.kʰaʃˈjaː.tʰɔ"
   },
   {
     "cheese": "ákawii",
@@ -50,61 +50,61 @@
     "cheese": "éjkoorn",
     "english": "Nut, Legume",
     "wordclass": "n",
-    "ipa": "ˈe̞ɪ̯.kʰoːɾn"
+    "ipa": "ˈe̞j.kʰoːɾn"
   },
   {
     "cheese": "édelëst",
     "english": "New, Newly",
     "wordclass": "adj/adv",
-    "ipa": "ˈe̞.de̞.ləsd"
+    "ipa": "ˈe̞.te̞.ləst"
   },
   {
     "cheese": "a-d-l",
     "english": "Forever, Infinite, Always",
     "wordclass": "adj/adv",
-    "ipa": "ˈan.kʰɪn dɪ.kʰe̞d.ʃɪ.tʰɔ luːkʰ"
+    "ipa": "ˈan.kʰɪn tɪ.kʰe̞t.ʃɪ.tʰɔ luːkʰ"
   },
   {
     "cheese": "a-d-l brik",
     "english": "immortal",
     "wordclass": "adj",
-    "ipa": "ˈan.kʰɪn dɪ.kʰe̞d.ʃɪ.tʰɔ luːkʰ brɪkʰ"
+    "ipa": "ˈan.kʰɪn tɪ.kʰe̞t.ʃɪ.tʰɔ luːkʰ prɪkʰ"
   },
   {
     "cheese": "a-d-l májëld tšédar",
     "english": "Infinite Luck",
     "wordclass": "n",
-    "ipa": "ˈan.kʰɪn dɪ.kʰe̞d.ʃɪ.tʰɔ luːkʰ ˈma.jəld ˈt͡ʃʰe̞.daɾ"
+    "ipa": "ˈan.kʰɪn tɪ.kʰe̞t.ʃɪ.tʰɔ luːkʰ ˈma.jəlt ˈt͡ʃʰe̞.taɾ"
   },
   {
     "cheese": "afidéliis",
     "english": "Disease",
     "wordclass": "n",
-    "ipa": "a.fɪˈde̞.lis"
+    "ipa": "a.fɪˈte̞.lis"
   },
   {
     "cheese": "afwegalpíítuu",
     "english": "Rich",
     "wordclass": "adj",
-    "ipa": "af.we̞.galˈpʰi.tʰuː"
+    "ipa": "af.we̞.kalˈpʰiː.tʰuː"
   },
   {
     "cheese": "ejdžd",
     "english": "Not, No",
     "wordclass": "adj/adv",
-    "ipa": "e̞jd͡ʒd"
+    "ipa": "e̞jd͡ʒt"
   },
   {
     "cheese": "ejdžd kámembert",
     "english": "No!",
     "wordclass": "int",
-    "ipa": "e̞jd͡ʒd ˈkʰa.me̞m.be̞ɾt"
+    "ipa": "e̞jd͡ʒt ˈkʰa.me̞m.pbe̞ɾtʰ"
   },
   {
     "cheese": "ejdžd húbardstn",
     "english": "To dislike",
     "wordclass": "vb",
-    "ipa": "e̞jd͡ʒd ˈhʌ.baɾd.stn̩"
+    "ipa": "e̞jd͡ʒt ˈhʌ.paɾt.stʰn̩"
   },
   {
     "cheese": "adžáno",
@@ -122,7 +122,7 @@
     "cheese": "éérdejl",
     "english": "Air, Wind, to Blow",
     "wordclass": "n/vb",
-    "ipa": "ˈe̞ːɾ.de̞jl"
+    "ipa": "ˈe̞ːɾ.te̞jl"
   },
   {
     "cheese": "ájzii",
@@ -134,7 +134,7 @@
     "cheese": "álgojer",
     "english": "Respect",
     "wordclass": "n/vb",
-    "ipa": "ˈal.gɔ.je̞ɾ"
+    "ipa": "ˈal.kɔ.je̞ɾ"
   },
   {
     "cheese": "áliijëm",
@@ -146,7 +146,7 @@
     "cheese": "áliijëm déjniš",
     "english": "Daily, Every day",
     "wordclass": "adv",
-    "ipa": "ˈa.li.jəm ˈde̞j.nɪʃ"
+    "ipa": "ˈa.li.jəm ˈte̞j.nɪʃ"
   },
   {
     "cheese": "áliijëm jeo",
@@ -170,7 +170,7 @@
     "cheese": "álfa brékfast",
     "english": "Breakfast",
     "wordclass": "n",
-    "ipa": "ˈal.fa ˈbɾe̞k.fast"
+    "ipa": "ˈal.fa ˈpɾe̞kʰ.fast"
   },
   {
     "cheese": "alpiikrééme",
@@ -182,25 +182,25 @@
     "cheese": "alpajngóld",
     "english": "Cone, Cone-shaped",
     "wordclass": "n/adj",
-    "ipa": "al.pʰajnˈgɔld"
+    "ipa": "al.pʰajnˈkɔlt"
   },
   {
     "cheese": "búkstonalpajngóld",
     "english": "mountain, mountainous",
     "wordclass": "n/adj",
-    "ipa": "ˈbʌk.stɔn.al.pʰajnˈgɔld"
+    "ipa": "ˈpʌk.stɔn.al.pʰajnˈkɔlt"
   },
   {
     "cheese": "álpkeeze",
     "english": "Solid",
     "wordclass": "n/adj",
-    "ipa": "ˈalpˌke̞ː.ze̞"
+    "ipa": "ˈalpʰˌkʰe̞ː.ze̞"
   },
   {
     "cheese": "álpsrebel",
     "english": "Savoury, Umami",
     "wordclass": "adj",
-    "ipa": "ˈalpsˌɾe̞.be̞l"
+    "ipa": "ˈalpʰsˌɾe̞.pe̞l"
   },
   {
     "cheese": "álta",
