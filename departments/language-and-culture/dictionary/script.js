@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if input[i] =="é"{
           input[i]=e;
         }
-        return input
+        return input;
       }
     var noaccent=deaccent(filterValue);
     }
