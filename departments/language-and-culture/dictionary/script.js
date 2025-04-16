@@ -20,12 +20,24 @@ document.addEventListener("DOMContentLoaded", function () {
   filterInput.addEventListener('input', function () {
     var filterValue = this.value.toLowerCase();
     var rows = document.querySelectorAll("#data-table tbody tr");
+    function deaccent(plaint){
+      let plaintxt=plaint;
+      let output=""
+      for (let i=0;i<plaintxt.length;i++){
+        if (plaintxt[i] =="é"){
+            output[i]="e";
+        }else{
+            output[i]=plaintxt[i];
+        }
+      }
+      return output;
+    }
     rows.forEach(function (row) {
       var cells = row.getElementsByTagName("td");
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = cells[i].textContent.toLowerCase();
-        if (cellText.indexOf(filterValue) > -1) {
+        if (deaccent(cellText).indexOf(deaccent(filterValue)) > -1) {
           found = true;
           break;
         }
