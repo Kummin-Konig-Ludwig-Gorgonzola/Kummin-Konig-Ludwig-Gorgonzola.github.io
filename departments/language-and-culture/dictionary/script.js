@@ -26,6 +26,12 @@ document.addEventListener("DOMContentLoaded", function () {
       for (let i=0;i<plaintxt.length;i++){
         if (plaintxt[i] =="é"){
             output=output+"e";
+        }elif (plaintxt[i] =="á"){
+            output=output+"a";
+        }elif (plaintxt[i] =="ó"){
+            output=output+"o";
+        }elif (plaintxt[i] =="í"){
+            output=output+"i";
         }else{
             output=output+plaintxt[i];
         }
@@ -37,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        if (cellText.indexOf(deaccent(filterValue)) > -1) {
+        if (deaccent(cellText).indexOf(deaccent(filterValue)) > -1) {
           found = true;
           break;
         }
