@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var cells = row.getElementsByTagName("td");
       var found = false;
       for (var i = 0; i < cells.length; i++) {
-        var cellText = cells[i].textContent.toLowerCase();
+        var cellText = deaccent(cells[i].textContent.toLowerCase());
         if (cellText.indexOf(filterValue) > -1) {
           found = true;
           break;
