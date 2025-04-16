@@ -26,11 +26,11 @@ document.addEventListener("DOMContentLoaded", function () {
       for (let i=0;i<plaintxt.length;i++){
         if (plaintxt[i] =="é"){
             output=output+"e";
-        }elif (plaintxt[i] =="á"){
+        }else if (plaintxt[i] =="á"){
             output=output+"a";
-        }elif (plaintxt[i] =="ó"){
+        }else if (plaintxt[i] =="ó"){
             output=output+"o";
-        }elif (plaintxt[i] =="í"){
+        }else i (plaintxt[i] =="í"){
             output=output+"i";
         }else{
             output=output+plaintxt[i];
