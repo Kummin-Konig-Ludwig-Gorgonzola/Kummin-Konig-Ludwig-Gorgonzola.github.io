@@ -71,7 +71,7 @@
     "ipa": "ˈan.kʰɪn tɪ.kʰe̞t.ʃɪ.tʰɔ luːkʰ prɪkʰ"
   },
   {
-    "cheese": "a-d-l májëld tžédar",
+    "cheese": "a-d-l májëld tšedar",
     "english": "Infinite Luck",
     "wordclass": "n",
     "ipa": "ˈan.kʰɪn tɪ.kʰe̞t.ʃɪ.tʰɔ luːkʰ ˈma.jəlt ˈt͡ʃʰe̞.taɾ"
@@ -1156,8 +1156,8 @@
   },
   {
     "cheese": "Kasiobiraio",
-    "english": "-",
-    "wordclass": "-"
+    "english": "addition, to add",
+    "wordclass": "n/vb"
   },
   {
     "cheese": "Kasiobufala",
@@ -1166,18 +1166,18 @@
   },
   {
     "cheese": "Kasiokavalo",
-    "english": "-",
-    "wordclass": "-"
+    "english": "multiplication, to multiply",
+    "wordclass": "n/vb"
   },
   {
     "cheese": "Kasiota",
-    "english": "-",
-    "wordclass": "-"
+    "english": "Number, count",
+    "wordclass": "n/vb"
   },
   {
     "cheese": "Kakow",
-    "english": "-",
-    "wordclass": "-"
+    "english": "snap!",
+    "wordclass": "exclaimation"
   },
   {
     "cheese": "Kaerfilii",
@@ -1231,8 +1231,8 @@
   },
   {
     "cheese": "Kana",
-    "english": "-",
-    "wordclass": "-"
+    "english": "to contain, container",
+    "wordclass": "n/vb"
   },
   {
     "cheese": "Kaneidian",
@@ -1306,8 +1306,8 @@
   },
   {
     "cheese": "Karavan",
-    "english": "-",
-    "wordclass": "-"
+    "english": "to trade, trade",
+    "wordclass": "n/vb"
   },
   {
     "cheese": "Kardo",
@@ -1361,11 +1361,6 @@
   },
   {
     "cheese": "Kasatisa",
-    "english": "-",
-    "wordclass": "-"
-  },
-  {
-    "cheese": "Kasiota",
     "english": "-",
     "wordclass": "-"
   },
@@ -2115,12 +2110,12 @@
     "wordclass": "vb/n"
   },
   {
-    "cheese": "Farmhouse",
+    "cheese": "Farmhaws",
     "english": "House",
     "wordclass": "n"
   },
   {
-    "cheese": "Farmerfarmhouse",
+    "cheese": "Farmerfarmhawse",
     "english": "Farmhouse",
     "wordclass": "n"
   },
