@@ -44,8 +44,8 @@ document.addEventListener("DOMContentLoaded", function () {
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        if (cellText.indexOf((deaccent(filterValue))) > -1) {
-          console.log(cellText.indexOf("gold",1))
+        let i=-1
+        if (cellText.indexOf((deaccent(filterValue)),i) > -1) {
           found = true;
           break;
         }
