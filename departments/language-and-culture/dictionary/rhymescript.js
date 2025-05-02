@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
             output=output+"i";
         }else if (plaintxt[i] =="ú"){
             output=output+"u";
-        }else{
+        }else if (plaintxt[i] !=" "){
             output=output+plaintxt[i];
         }
       }
