@@ -57,8 +57,9 @@ document.addEventListener("DOMContentLoaded", function () {
         if (match==filterValue.length){
           found = true;
         }
+        if (match>0){
         console.log(match, cellText);
-        }
+        }}
       }
       if (found) {
         row.style.display = "";
