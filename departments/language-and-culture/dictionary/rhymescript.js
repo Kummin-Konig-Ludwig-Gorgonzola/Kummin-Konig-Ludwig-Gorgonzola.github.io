@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var cells = row.getElementsByTagName("td");
       var found = false;
       for (var i = 0; i < cells.length; i++) {
+        var match=0
         var cellText = deaccent(cells[i].textContent.toLowerCase());
         //if (cellText.indexOf((deaccent(filterValue))) > -1) {
           //found = true;
@@ -50,9 +51,12 @@ document.addEventListener("DOMContentLoaded", function () {
         //}
         for (var i=0; i<filterValue.length;i++){
           if (filterValue[-i] ==cellText[-i]){
-            found = true;
+            match=match+1;
             break;
           }
+        if (match==filterValue.length){
+          found = true;
+        }
         }
       }
       if (found) {
