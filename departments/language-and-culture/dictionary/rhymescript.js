@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var cells = row.getElementsByTagName("td");
       var found = false;
       for (var i = 0; i < cells.length; i++) {
-        var match=0;
+        match=0;
         var cellText = deaccent(cells[i].textContent.toLowerCase());
         //if (cellText.indexOf((deaccent(filterValue))) > -1) {
           //found = true;
