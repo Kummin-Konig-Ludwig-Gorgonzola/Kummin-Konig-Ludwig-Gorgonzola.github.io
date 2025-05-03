@@ -52,12 +52,12 @@ document.addEventListener("DOMContentLoaded", function () {
         for (var i=0; i<filterValue.length;i++){
           if (filterValue[-i] ==cellText[-i]){
             match++;
-            console.log(match, cellText);
             break;
           }
         if (match==filterValue.length){
           found = true;
         }
+        console.log(match, cellText);
         }
       }
       if (found) {
