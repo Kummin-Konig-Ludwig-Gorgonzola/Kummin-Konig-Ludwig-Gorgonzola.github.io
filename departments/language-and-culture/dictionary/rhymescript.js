@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
         //}
         for (var i=0; i<filterValue.length;i++){
           if (filterValue[-i] ==cellText[-i]){
-            match=match+1;
+            match++;
             console.log(match, cellText);
             break;
           }
