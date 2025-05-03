@@ -54,10 +54,10 @@ document.addEventListener("DOMContentLoaded", function () {
             match++;
             break;
           }
+          console.log(match, cellText);
+        }
         if (match==filterValue.length){
           found = true;
-        }
-        console.log(match, cellText);
         }
       }
       if (found) {
