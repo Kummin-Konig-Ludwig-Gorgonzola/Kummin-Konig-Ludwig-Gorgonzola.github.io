@@ -47,8 +47,8 @@ document.addEventListener("DOMContentLoaded", function () {
       for (var i = 0; i < cells.length; i++) {
         match=0;
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        var cheese  ="";
-        console.log('cheese',cheese,"cheese")
+        //var cheese  ="";
+        //console.log('cheese',cheese,"cheese")
         //for (var i=0;i<cellText.length;i++){
           //if (cellText[i]=="•"){
             //break;
