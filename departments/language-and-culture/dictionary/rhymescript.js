@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         cheeses.append(item.cheese);
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;  
       });
-      console.log(cheeses[i])
+      //console.log(cheeses[i])
     }
   };
   xhr.send();
