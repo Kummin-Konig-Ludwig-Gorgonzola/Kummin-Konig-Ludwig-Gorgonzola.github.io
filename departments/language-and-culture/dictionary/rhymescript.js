@@ -60,12 +60,12 @@ document.addEventListener("DOMContentLoaded", function () {
         // neeed to separate the cheese part of the celltext (item.cheese no linked) then use this on the other js because that is also weird.
         for (var i=0; i<filterValue.length;i++){
           console.log(filterValue.length-i-1);
-          console.log(filterValue[filterValue.length-i-1],"versus",cellText[cellText.length-i-1]);
-           if (filterValue[filterValue.length-i-1]==cellText[cellText.length-i-1]){;
+          console.log(filterValue[filterValue.length-i-1],"versus",cheese[cheese.length-i-1]);
+           if (filterValue[filterValue.length-i-1]==cheese[cheese.length-i-1]){;
             match++;
             break;
           }
-          console.log(match, cellText);
+          console.log(match, cheese);
         }
         if (match==filterValue.length){
           found = true;
