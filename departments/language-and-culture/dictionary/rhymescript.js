@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
           }
           console.log(match, cheese);
         }
-        if (match==filterValue.length){
+        if (match>2){
           found = true;
         }
       
