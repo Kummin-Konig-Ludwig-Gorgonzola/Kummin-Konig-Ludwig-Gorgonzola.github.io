@@ -47,13 +47,22 @@ document.addEventListener("DOMContentLoaded", function () {
       for (var i = 0; i < cells.length; i++) {
         match=0;
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        //console.log(cheeses[i])
+        cheese="";
+        for (var i=0;i<cellText.length;i++){
+          if (cellText[i]=="•"){
+            break;
+          }
+          else{
+            cheese=cheese+cellText[i]
+          }
+        }
+        console.log(cheese)
         // neeed to separate the cheese part of the celltext (item.cheese no linked) then use this on the other js because that is also weird.
         for (var i=0; i<filterValue.length;i++){
           console.log(filterValue.length-i-1);
           console.log(filterValue[filterValue.length-i-1],"versus",cellText[cellText.length-i-1]);
            if (filterValue[filterValue.length-i-1]==cellText[cellText.length-i-1]){;
-            match++;
+            match++;]                                                                       
             break;
           }
           console.log(match, cellText);
