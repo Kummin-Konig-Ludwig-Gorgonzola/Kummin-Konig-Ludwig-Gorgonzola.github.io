@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
             cheese=cheese+cellText[i]; 
           } 
         } 
-        cheese=deaccent(cheese.textContent.toLowerCase)
+        cheese=deaccent(cheese.textContent.toLowerCase());
         for (var i=0; i<filterValue.length;i++){
           console.log(filterValue.length-i-1);
           console.log(filterValue[filterValue.length-i-1],"versus",cheese[cheese.length-i-1]);
