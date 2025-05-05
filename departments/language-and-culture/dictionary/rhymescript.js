@@ -58,7 +58,6 @@ document.addEventListener("DOMContentLoaded", function () {
         } 
         cheese=deaccent(cheese);
         for (var i=0; i<filterValue.length;i++){
-          console.log(filterValue.length-i-1);
           console.log(filterValue[filterValue.length-i-1],"versus",cheese[cheese.length-i-1]);
            if (filterValue[filterValue.length-i-1]==cheese[cheese.length-i-1]){;
             match++;
@@ -69,12 +68,12 @@ document.addEventListener("DOMContentLoaded", function () {
         if (match==filterValue.length){
           found = true;
         }
-      }
+      
       if (found) {
         row.style.display = "";
       } else {
         row.style.display = "none";
-      }
+      }}
     });
   });
 });
