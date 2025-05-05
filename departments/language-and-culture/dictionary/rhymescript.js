@@ -56,8 +56,7 @@ document.addEventListener("DOMContentLoaded", function () {
             cheese=cheese+cellText[i]; 
           } 
         } 
-        console.log('cheese',cheese,"cheese")
-        // neeed to separate the cheese part of the celltext (item.cheese no linked) then use this on the other js because that is also weird.
+        cheese=deaccent(cheese.textContent.toLowerCase)
         for (var i=0; i<filterValue.length;i++){
           console.log(filterValue.length-i-1);
           console.log(filterValue[filterValue.length-i-1],"versus",cheese[cheese.length-i-1]);
