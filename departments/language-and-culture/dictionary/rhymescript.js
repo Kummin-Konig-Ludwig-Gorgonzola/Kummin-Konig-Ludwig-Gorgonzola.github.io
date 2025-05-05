@@ -9,8 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
         var row = tableBody.insertRow();
         var cell1 = row.insertCell(0);
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
-        cheeses=[]
-        cheeses.append(item.cheese)
+        
       });
     }
   };
@@ -23,7 +22,6 @@ document.addEventListener("DOMContentLoaded", function () {
     function deaccent(plaint){
       let plaintxt=plaint;
       let output=""
-      console.log(cheeses)
       for (let i=0;i<plaintxt.length;i++){
         if (plaintxt[i] =="é"){
             output=output+"e";
