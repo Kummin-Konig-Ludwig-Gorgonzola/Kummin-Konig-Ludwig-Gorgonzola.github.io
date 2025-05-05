@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
       data.forEach(function (item) {
         var row = tableBody.insertRow();
         var cell1 = row.insertCell(0);
+        console.log(item.cheese)
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
         
       });
