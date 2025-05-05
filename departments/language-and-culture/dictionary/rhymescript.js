@@ -10,9 +10,9 @@ document.addEventListener("DOMContentLoaded", function () {
         var cell1 = row.insertCell(0);
         var cheeses=[];
         cheeses.append(item.cheese);
-        cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
-        
+        cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;  
       });
+      console.log(cheeses[i])
     }
   };
   xhr.send();
@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
       for (var i = 0; i < cells.length; i++) {
         match=0;
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        console.log(cheeses[i])
+        //console.log(cheeses[i])
         // neeed to separate the cheese part of the celltext (item.cheese no linked) then use this on the other js because that is also weird.
         for (var i=0; i<filterValue.length;i++){
           console.log(filterValue.length-i-1);
