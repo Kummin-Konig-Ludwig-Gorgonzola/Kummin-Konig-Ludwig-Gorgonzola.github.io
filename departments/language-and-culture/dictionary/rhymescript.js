@@ -51,12 +51,12 @@ document.addEventListener("DOMContentLoaded", function () {
         //}
         for (var i=0; i<filterValue.length;i++){
           console.log(filterValue.length-i-1)
-          console.log(filterValue[filterValue.length-i-1],"versus",cellText[cellText.length-i-1])
-          if (filterValue[filterValue.length-i-1]==cellText[cellText.length-i-1]){
+          console.log(filterValue[filterValue.length-i-1],"versus",cellText.cheese[cellText.cheese.length-i-1])
+          if (filterValue[filterValue.length-i-1]==cellText/.cheese[cellText.cheese.length-i-1]){
             match++;
             break;
           }
-          console.log(match, cellText);
+          console.log(match, cellText.cheese);
         }
         if (match==filterValue.length){
           found = true;
