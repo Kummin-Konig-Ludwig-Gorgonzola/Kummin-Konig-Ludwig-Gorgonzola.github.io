@@ -50,8 +50,8 @@ document.addEventListener("DOMContentLoaded", function () {
           //break;
         //}
         for (var i=0; i<filterValue.length;i++){
-          
-          console.log(filterValue[filterValue.length-i],"versus",cellText[cellText.length-i])
+          console.log(filterValue.length-i-1)
+          console.log(filterValue[filterValue.length-i-1],"versus",cellText[cellText.length-i-1])
           if (filterValue[filterValue.length-i-1]==cellText[cellText.length-i-1]){
             match++;
             break;
