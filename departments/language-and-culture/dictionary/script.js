@@ -45,7 +45,16 @@ document.addEventListener("DOMContentLoaded", function () {
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        if (cellText.indexOf(deaccent(filterValue)) > -1) {
+        var cheese  = "";
+        for (var i=0;i<cellText.length;i++){ 
+          if (cellText[i]=="•"){ 
+            break; 
+          } 
+          else{ 
+            cheese=cheese+cellText[i]; 
+          } 
+        } 
+        if (cheese.indexOf(deaccent(filterValue)) > -1) {
           found = true;
           break;
         }
