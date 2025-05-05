@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
             break;
           }
           else{
-            cheese=cheese+cellText[i]
+            cheese=cheese+cellText[i];
           }
         }
         console.log(cheese)
