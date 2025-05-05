@@ -8,9 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
       data.forEach(function (item) {
         var row = tableBody.insertRow();
         var cell1 = row.insertCell(0);
-        console.log(item.cheese)
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
-        
+        cheeses=[]
+        cheeses.append(item.cheese)
       });
     }
   };
@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function deaccent(plaint){
       let plaintxt=plaint;
       let output=""
+      console.log(cheeses)
       for (let i=0;i<plaintxt.length;i++){
         if (plaintxt[i] =="é"){
             output=output+"e";
@@ -46,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
       for (var i = 0; i < cells.length; i++) {
         match=0;
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        // neeed to separate the cheese part of the celltext (item.cheese no work.) then use this on the other js because that is also weird.
+        // neeed to separate the cheese part of the celltext (item.cheese no linked) then use this on the other js because that is also weird.
         for (var i=0; i<filterValue.length;i++){
           console.log(filterValue.length-i-1)
           console.log(filterValue[filterValue.length-i-1],"versus",cellText[cellText.length-i-1])
