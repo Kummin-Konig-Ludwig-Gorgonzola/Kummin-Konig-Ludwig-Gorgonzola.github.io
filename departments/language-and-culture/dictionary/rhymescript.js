@@ -45,10 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
       for (var i = 0; i < cells.length; i++) {
         match=0;
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        //if (cellText.indexOf((deaccent(filterValue))) > -1) {
-          //found = true;
-          //break;
-        //}
+        // neeed to separate the cheese part of the celltext (item.cheese no work.) then use this on the other js because that is also weird.
         for (var i=0; i<filterValue.length;i++){
           console.log(filterValue.length-i-1)
           console.log(filterValue[filterValue.length-i-1],"versus",cellText[cellText.length-i-1])
@@ -56,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
             match++;
             break;
           }
-          console.log(match, cellText.cheese);
+          console.log(match, cellText);
         }
         if (match==filterValue.length){
           found = true;
