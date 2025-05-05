@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
           //break;
         //}
         for (var i=0; i<filterValue.length;i++){
-          print(filterValue[filterValue.length-i],"versus",cellText[cellText.length-i])
+          console.log(filterValue[filterValue.length-i],"versus",cellText[cellText.length-i])
           if (filterValue[filterValue.length-i]==cellText[cellText.length-i]){
             match++;
             break;
