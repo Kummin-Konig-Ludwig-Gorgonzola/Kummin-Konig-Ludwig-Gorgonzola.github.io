@@ -61,7 +61,6 @@ document.addEventListener("DOMContentLoaded", function () {
           console.log(filterValue[filterValue.length-i-1],"versus",cheese[cheese.length-i-1]);
            if (filterValue[filterValue.length-i-1]==cheese[cheese.length-i-1]){;
             match++;
-            break;
           }
           console.log(match, cheese);
         }
