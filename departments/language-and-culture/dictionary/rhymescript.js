@@ -60,8 +60,8 @@ document.addEventListener("DOMContentLoaded", function () {
         for (var i=0; i<filterValue.length;i++){
            if (filterValue[filterValue.length-i-1]==cheese[cheese.length-i-1]){
             match++;
-            if ((cheese[cheese.length-i-1]="a"||cheese[cheese.length-i-1]="e"||cheese[cheese.length-i-1]="o"||cheese[cheese.length-i-1]="i"||cheese[cheese.length-i-1]="u"||cheese[cheese.length-i-1]="ë")&&(cheese[cheese.length-i]="a"||cheese[cheese.length-i]="e"||cheese[cheese.length-i]="o"||cheese[cheese.length-i]="i"||cheese[cheese.length-i]="u"||cheese[cheese.length-i]="ë")){
-              console.log("rhyme found.")
+            if ((cheese[cheese.length-i-1]=="a"||cheese[cheese.length-i-1]=="e"||cheese[cheese.length-i-1]=="o"||cheese[cheese.length-i-1]=="i"||cheese[cheese.length-i-1]=="u"||cheese[cheese.length-i-1]=="ë")&&(cheese[cheese.length-i]=="a"||cheese[cheese.length-i]=="e"||cheese[cheese.length-i]=="o"||cheese[cheese.length-i]=="i"||cheese[cheese.length-i]=="u"||cheese[cheese.length-i]=="ë")){
+              console.log("rhyme found.");
             }
           }
            else{
