@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
               if (filterValue[filterValue.length-i-2]=="a"||filterValue[filterValue.length-i-2]=="e"||filterValue[filterValue.length-i-2]=="o"||filterValue[filterValue.length-i-2]=="i"||filterValue[filterValue.length-i-2]=="u"||filterValue[filterValue.length-i-2]=="ë"){
               //for some reason aan still shows up when u say an
               }
-              else{
+              else if (filterValue[filterValue.length-i-2]==cheese[cheese.length-i-2]){
               found = true;
               break;
               }
