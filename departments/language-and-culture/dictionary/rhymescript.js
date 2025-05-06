@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
            
             if (cheese[cheese.length-i-1]=="a"||cheese[cheese.length-i-1]=="e"||cheese[cheese.length-i-1]=="o"||cheese[cheese.length-i-1]=="i"||cheese[cheese.length-i-1]=="u"||cheese[cheese.length-i-1]=="ë"){
               if (cheese[cheese.length-i-2]=="a"||cheese[cheese.length-i-2]=="e"||cheese[cheese.length-i-2]=="o"||cheese[cheese.length-i-2]=="i"||cheese[cheese.length-i-2]=="u"||cheese[cheese.length-i-2]=="ë"){
-                console.log("tax")
+                break;
               }
               else{
               found = true;
