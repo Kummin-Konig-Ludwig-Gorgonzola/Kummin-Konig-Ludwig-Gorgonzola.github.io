@@ -61,7 +61,8 @@ document.addEventListener("DOMContentLoaded", function () {
            if (filterValue[filterValue.length-i-1]==cheese[cheese.length-i-1]){
            
             if (cheese[cheese.length-i-1]=="a"||cheese[cheese.length-i-1]=="e"||cheese[cheese.length-i-1]=="o"||cheese[cheese.length-i-1]=="i"||cheese[cheese.length-i-1]=="u"||cheese[cheese.length-i-1]=="ë"){
-              if (filterValue[filterValue.length-i-2]=="a"||filterValue[filterValue.length-i-2]=="e"||filterValue[filterValue.length-i-2]=="o"||filterValue[filterValue.length-i-2]=="i"||filterValue[filterValue.length-i-2]=="u"||filterValue[filterValue.length-i-2]=="ë"){
+              if (filterValue[filterValue.length-i-2]=="a"||filterValue[filterValue.length-i-2]=="e"||filterValue[filterValue.length-i-2]=="o"||filterValue[filterValue.length-i-2]=="i"||filterValue[filterValue.length-i-2]=="u"||filterValue[filterValue.length-i-2]=="ë")&&(cheese[cheese.length-i-2]=="a"||cheese[cheese.length-i-2]=="e"||cheese[cheese.length-i-2]=="o"||cheese[cheese.length-i-2]=="i"||cheese[cheese.length-i-2]=="u"||cheese[cheese.length-i-2]=="ë"){
+              
               }
               else{
               found = true;
