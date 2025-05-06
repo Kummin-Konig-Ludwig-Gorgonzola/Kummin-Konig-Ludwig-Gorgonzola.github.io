@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
         cheese=deaccent(cheese);
         for (var i=0; i<filterValue.length;i++){
            if (filterValue[filterValue.length-i-1]==cheese[cheese.length-i-1]){
-            match++;
+           
             if ((cheese[cheese.length-i-1]=="a"||cheese[cheese.length-i-1]=="e"||cheese[cheese.length-i-1]=="o"||cheese[cheese.length-i-1]=="i"||cheese[cheese.length-i-1]=="u"||cheese[cheese.length-i-1]=="ë")&&(cheese[cheese.length-i-2]!="a"||cheese[cheese.length-i-2]!="e"||cheese[cheese.length-i-2]!="o"||cheese[cheese.length-i-2]!="i"||cheese[cheese.length-i-2]!="u"||cheese[cheese.length-i-2]!="ë")){
               found = true;
               break;
@@ -69,9 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
             break;
           }
         }
-        if (match==filterValue.length){
-          found = true;
-        }
+        
       
       if (found) {
         row.style.display = "";
