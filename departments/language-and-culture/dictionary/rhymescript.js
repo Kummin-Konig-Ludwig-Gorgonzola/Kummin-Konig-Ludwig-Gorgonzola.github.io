@@ -61,14 +61,15 @@ document.addEventListener("DOMContentLoaded", function () {
            if (filterValue[filterValue.length-i-1]==cheese[cheese.length-i-1]){
             match++;
             if ((cheese[cheese.length-i-1]=="a"||cheese[cheese.length-i-1]=="e"||cheese[cheese.length-i-1]=="o"||cheese[cheese.length-i-1]=="i"||cheese[cheese.length-i-1]=="u"||cheese[cheese.length-i-1]=="ë")&&(cheese[cheese.length-i]!="a"||cheese[cheese.length-i]!="e"||cheese[cheese.length-i]!="o"||cheese[cheese.length-i]!="i"||cheese[cheese.length-i]!="u"||cheese[cheese.length-i]!="ë")){
-              console.log("rhyme found.");
+              found = true;
+              break;
             }
           }
            else{
             break;
           }
         }
-        if (match>2||match==filterValue.length){
+        if (match==filterValue.length){
           found = true;
         }
       
