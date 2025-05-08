@@ -67,3 +67,14 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 });
+
+function cheeseToIpa(cheese) {
+  ipa = "";
+  cheese.forEach((letter, i) => {
+    if (letter == "a") {
+      if (cheese[i+1] == "a") ipa += "aː"
+      else ipa += "a"
+    }
+  })
+  return ipa;
+}
