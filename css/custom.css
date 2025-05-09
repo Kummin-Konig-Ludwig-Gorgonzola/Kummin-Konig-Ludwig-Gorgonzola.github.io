@@ -24,6 +24,9 @@
 .cheesenese-writing{
   font-family: métronëwmz;
 }
+.test-writing{
+  font-family:TimesNRCyrMT.ttf;
+}
 .bg-ketchup {
   background-color: var(--ketchup) !important;
 }
