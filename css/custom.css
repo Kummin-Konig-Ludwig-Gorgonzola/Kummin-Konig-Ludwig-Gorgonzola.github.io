@@ -7,6 +7,10 @@
   font-family: métronëwmz;
   src:url(/css/métronëwmz.1c75e822800.ttf);
 }
+@font-face{
+  font-family:TimesNRCyrMT;
+  src:url(/TimesNRCyrMT.ttf)
+}
 
 @keyframes scroll {
   0% {
