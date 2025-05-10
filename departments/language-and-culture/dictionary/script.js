@@ -9,8 +9,46 @@ document.addEventListener("DOMContentLoaded", function () {
         var row = tableBody.insertRow();
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
+        function zealify(){
+    var ptexto = document.getElementById("ptext");
+    var plaintxt = ptexto.value;
+    var zealtxt = "";
+    
+    for (let i=0;i<plaintxt.length;i++){
+        if (plaintxt[i]=="i"){
+            zealtxt=zealtxt+"u";
+        }
+        else if (plaintxt[i]=="a"){
+            zealtxt=zealtxt+"e";
+        }
+        else if (plaintxt[i]=="e"){
+            zealtxt=zealtxt+"i";
+        }
+        else if (plaintxt[i]=="u"){
+            zealtxt=zealtxt+"a";
+        }
+        else if (plaintxt[i]=="I"){
+            zealtxt=zealtxt+"U";
+        }
+        else if (plaintxt[i]=="A"){
+            zealtxt=zealtxt+"E";
+        }
+        else if (plaintxt[i]=="E"){
+            zealtxt=zealtxt+"I";
+        }
+        else if (plaintxt[i]=="U"){
+            zealtxt=zealtxt+"A";
+        }
+        else{
+            zealtxt=zealtxt+plaintxt[i];
+        }
+    } 
+    
+    
+    return zealtxt;
+}
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
-        cell2.textContent = item.english;
+        cell2.textContent = zealify(item.english);
       });
     }
   };
