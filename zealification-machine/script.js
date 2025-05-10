@@ -35,6 +35,7 @@ function activate(){
     ptexto=('<input type="text" class="mb-3 p-1 form-control w-auto" id="name" placeholder="'+zealtxt+'">');
     
     document.getElementById("ptext").value=zealtxt;
+    document.getElementById("ptext").class="zealify";
     
     return false
 }
