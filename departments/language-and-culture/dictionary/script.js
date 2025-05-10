@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
           return zealtxt;
       }
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
-        cell2.innerHTML = `<strong class="cheesenese-writing">${item.english}</strong>`;
+        cell2.innerHTML = `<strong class="cheesenese-writing zealify">${item.english}</strong>`;
         cell2.textContent = zealify(item.english);
         console.log(zealify("cheese"))
       });
