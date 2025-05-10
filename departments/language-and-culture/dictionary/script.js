@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
         function zealify(plaintxt){
-          var zealtxt = plaintxt[0].toUpperCase();
+          var zealtxt = "";
           for (let i=0;i<plaintxt.length;i++){
               if (plaintxt[i]=="i"){
                   zealtxt=zealtxt+"u";
