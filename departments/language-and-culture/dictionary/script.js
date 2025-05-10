@@ -12,7 +12,10 @@ document.addEventListener("DOMContentLoaded", function () {
         function zealify(plaintxt){
           var zealtxt = "";
           for (let i=0;i<plaintxt.length;i++){
-              if (plaintxt[i]=="i"){
+              if (i=0){
+                  zealtxt=zealtxt+plaintxt[i].toUpperCase();
+              }
+              else if (plaintxt[i]=="i"){
                   zealtxt=zealtxt+"u";
               }
               else if (plaintxt[i]=="a"){
