@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
               if (i=0){
                   zealtxt=zealtxt+plaintxt[i].toUpperCase();
               }
-              else if (plaintxt[i]=="i"){
+              if (plaintxt[i]=="i"){
                   zealtxt=zealtxt+"u";
               }
               else if (plaintxt[i]=="a"){
