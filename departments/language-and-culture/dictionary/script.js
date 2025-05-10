@@ -9,11 +9,8 @@ document.addEventListener("DOMContentLoaded", function () {
         var row = tableBody.insertRow();
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
-        function zealify(){
-          var ptexto = document.getElementById("ptext");
-          var plaintxt = ptexto.value;
+        function zealify(plaintxt){
           var zealtxt = "";
-    
           for (let i=0;i<plaintxt.length;i++){
               if (plaintxt[i]=="i"){
                   zealtxt=zealtxt+"u";
