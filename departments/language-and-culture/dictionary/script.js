@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function () {
           else if(count==0){ 
             cheese=cheese+cellText[i]; 
           } 
-          else if(count==1){
+          else if(count==3){
             english=english+cellText[i];
           }
         } 
