@@ -78,16 +78,21 @@ document.addEventListener("DOMContentLoaded", function () {
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        console.log(cellText);
         var cheese  = "";
+        var english = "";
+        var count=0;
         for (var i=0;i<cellText.length;i++){ 
           if (cellText[i]=="•"){ 
-            break; 
+            count=count+1
           } 
-          else{ 
+          else if(count==0){ 
             cheese=cheese+cellText[i]; 
           } 
+          else if(count==2){
+            english=english+cellText[i];
+          }
         } 
+        console.log(english);
         if (cheese.indexOf(deaccent(filterValue)) > -1) {
           found = true;
           break;
