@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function () {
             cheese=cheese+cellText[i]; 
           } 
         } 
-        if (cheese.indexOf(deaccent(filterValue)) > -1)||(false) {
+        if (cheese.indexOf(deaccent(filterValue)) > -1) {
           found = true;
           break;
         }
