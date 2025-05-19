@@ -89,15 +89,6 @@ document.addEventListener("DOMContentLoaded", function () {
             cheese=cheese+cellText[i]; 
           } 
         } 
-        var english  = "";
-        for (var i=0;i<cellText.length;i++){ 
-          if (cellText[i]=="•"){ 
-            break; 
-          } 
-          else{ 
-            english=english+cellText[i]; 
-          } 
-        } 
         if (cheese.indexOf(deaccent(filterValue)) > -1)||(false) {
           found = true;
           break;
