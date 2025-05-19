@@ -44,7 +44,6 @@ document.addEventListener("DOMContentLoaded", function () {
       }
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
         cell2.innerHTML = `<strong class="cheesenese-writing zealify">${zealify(item.english)}</strong>`;
-        console.log(zealify("cheese"))
       });
     }
   };
