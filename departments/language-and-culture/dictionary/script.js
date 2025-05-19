@@ -79,6 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
+        console.log(cellText)
         var cheese  = "";
         for (var i=0;i<cellText.length;i++){ 
           if (cellText[i]=="•"){ 
@@ -88,7 +89,16 @@ document.addEventListener("DOMContentLoaded", function () {
             cheese=cheese+cellText[i]; 
           } 
         } 
-        if (cheese.indexOf(deaccent(filterValue)) > -1) {
+        var english  = "";
+        for (var i=0;i<cellText.length;i++){ 
+          if (cellText[i]=="•"){ 
+            break; 
+          } 
+          else{ 
+            english=english+cellText[i]; 
+          } 
+        } 
+        if (cheese.indexOf(deaccent(filterValue)) > -1)||(false) {
           found = true;
           break;
         }
