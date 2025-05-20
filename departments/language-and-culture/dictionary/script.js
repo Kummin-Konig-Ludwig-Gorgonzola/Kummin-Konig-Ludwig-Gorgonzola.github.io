@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     rows.forEach(function (row) {
       var cells = row.getElementsByTagName("td");
-      var english=deaccent(deaccent(cells[1].textContent.toLowerCase()));
+      var english=zealify(zealify(zealify(deaccent(cells[1].textContent.toLowerCase()))));
       console.log(english)
       var found = false;
       for (var i = 0; i < cells.length; i++) {
