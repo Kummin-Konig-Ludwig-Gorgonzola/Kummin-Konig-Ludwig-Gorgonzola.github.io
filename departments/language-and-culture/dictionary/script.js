@@ -1,15 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
-  var xhr = new XMLHttpRequest();
-  xhr.open("GET", "words.json", true);
-  xhr.onreadystatechange = function () {
-    if (xhr.readyState == 4 && xhr.status == 200) {
-      var data = JSON.parse(xhr.responseText);
-      var tableBody = document.getElementById("data-table").getElementsByTagName("tbody")[0];
-      data.forEach(function (item) {
-        var row = tableBody.insertRow();
-        var cell1 = row.insertCell(0);
-        var cell2 = row.insertCell(1);
-        function zealify(plaintxt){
+function zealify(plaintxt){
           var zealtxt = "";
           for (let i=0;i<plaintxt.length;i++){
               if (plaintxt[i]=="i"){
@@ -42,6 +31,18 @@ document.addEventListener("DOMContentLoaded", function () {
           } 
           return zealtxt;
       }
+document.addEventListener("DOMContentLoaded", function () {
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", "words.json", true);
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      var data = JSON.parse(xhr.responseText);
+      var tableBody = document.getElementById("data-table").getElementsByTagName("tbody")[0];
+      data.forEach(function (item) {
+        var row = tableBody.insertRow();
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
         cell2.innerHTML = `<strong class="cheesenese-writing zealify">${zealify(item.english)}</strong>`;
       });
