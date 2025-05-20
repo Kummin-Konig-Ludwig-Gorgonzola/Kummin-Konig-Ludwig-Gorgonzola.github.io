@@ -77,7 +77,6 @@ document.addEventListener("DOMContentLoaded", function () {
     rows.forEach(function (row) {
       var cells = row.getElementsByTagName("td");
       var english=zealify(zealify(zealify(deaccent(cells[1].textContent.toLowerCase()))));
-      console.log(english)
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
@@ -92,7 +91,7 @@ document.addEventListener("DOMContentLoaded", function () {
             cheese=cheese+cellText[i]; 
           }  
         } 
-        console.log(english)
+        console.log(english.indexOf(deaccent(filterValue)))
         if ((cheese.indexOf(deaccent(filterValue))||(english.indexOf(deaccent(filterValue)))) > -1) {
           found = true;
           break;
