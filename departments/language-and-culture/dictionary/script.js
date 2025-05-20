@@ -75,11 +75,11 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     rows.forEach(function (row) {
       var cells = row.getElementsByTagName("td");
-      console.log(cells[1].textContent);
+      console.log(cells[1].textContent.toLowerCase());
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
-        
+        console.log(cellText)
         var cheese  = "";
         var english = "";
         var count=0;
