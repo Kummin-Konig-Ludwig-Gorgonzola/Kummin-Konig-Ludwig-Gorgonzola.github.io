@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
         } 
         console.log(english);
         console.log(english.indexOf(deaccent(filterValue)));
-        if ((cheese.indexOf(deaccent(filterValue))||(english.indexOf(deaccent(filterValue)))) > -1) {
+        if ((cheese.indexOf(deaccent(filterValue) > -1)||(english.indexOf(deaccent(filterValue)) > -1) )) {
           found = true;
           break;
         }
