@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
           return zealtxt;
       }
         cell1.innerHTML = `<strong class="cheesenese-writing">${item.cheese}</strong> • <span style="font-size: small">${item.cheese} • [${item.ipa}] • ${item.wordclass}</span>`;
-        cell2.innerHTML = `<strong class="cheesenese-writing zealify">${zealify(item.english)}</strong>`;
+        cell2.innerHTML = `<strong class="zealify">${zealify(item.english)}</strong>`;
       });
     }
   };
@@ -53,7 +53,6 @@ document.addEventListener("DOMContentLoaded", function () {
   filterInput.addEventListener('input', function () {
     var filterValue = this.value.toLowerCase();
     var rows = document.querySelectorAll("#data-table tbody tr");
-    console.log(rows);
     function deaccent(plaint){
       let plaintxt=plaint;
       let output=""
@@ -76,6 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     rows.forEach(function (row) {
       var cells = row.getElementsByTagName("td");
+      console.log(cells)
       var found = false;
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
