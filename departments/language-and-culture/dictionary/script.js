@@ -81,7 +81,6 @@ document.addEventListener("DOMContentLoaded", function () {
       for (var i = 0; i < cells.length; i++) {
         var cellText = deaccent(cells[i].textContent.toLowerCase());
         var cheese  = "";
-        var english = "";
         var count=0;
         for (var i=0;i<cellText.length;i++){ 
           if (cellText[i]=="•"){ 
