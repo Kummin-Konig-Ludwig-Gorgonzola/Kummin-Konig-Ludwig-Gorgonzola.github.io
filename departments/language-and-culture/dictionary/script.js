@@ -90,8 +90,7 @@ document.addEventListener("DOMContentLoaded", function () {
             cheese=cheese+cellText[i]; 
           }  
         } 
-        console.log(english);
-        console.log(english.indexOf(deaccent(filterValue)));
+        
         if ((cheese.indexOf(deaccent(filterValue)) > -1)||(english.indexOf(deaccent(filterValue)) > -1) ) {
           found = true;
           break;
