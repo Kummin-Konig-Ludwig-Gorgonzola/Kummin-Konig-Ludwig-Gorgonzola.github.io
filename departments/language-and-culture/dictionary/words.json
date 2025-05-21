@@ -89,19 +89,13 @@
     "ipa": "af.we̞.kalˈpʰiː.tʰuː"
   },
   {
-    "cheese": "ejdžd",
-    "english": "Not, No",
-    "wordclass": "adj/adv",
-    "ipa": "e̞jd͡ʒt"
-  },
-  {
-    "cheese": "ejdžd kámembert",
+    "cheese": "! kámembert",
     "english": "No!",
     "wordclass": "int",
     "ipa": "e̞jd͡ʒt ˈkʰa.me̞m.pbe̞ɾtʰ"
   },
   {
-    "cheese": "ejdžd húbardstn",
+    "cheese": "! húbardstn",
     "english": "To dislike",
     "wordclass": "vb",
     "ipa": "e̞jd͡ʒt ˈhʌ.paɾt.stʰn̩"
@@ -4988,4 +4982,11 @@
     "cheese": "Zvitzer",
     "english": "2, Two, Second",
     "wordclass": "n/adj/adv"
-  }]
+  },
+  {
+    "cheese": "!",
+    "english": "Not, No",
+    "wordclass": "adj/adv",
+    "ipa": "e̞jd͡ʒt"
+  }
+]
